@@ -26,3 +26,4 @@ class ig.Display
       ..exit!remove!
       ..style \bottom -> "#{yScale it.previousAmount}%"
       ..style \height -> "#{yScale it.amount}%"
+      ..attr \data-tooltip -> "#{it.country}: #{it.amount}"

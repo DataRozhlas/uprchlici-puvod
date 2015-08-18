@@ -2,16 +2,21 @@
 @import prefixes
 @import 'components/triangle'
 
+tableHeight = 250px
+barsHeight = 300px
+
 .ig
   @import basics
 .ig
   .display
     position relative
     width 50%
-    height 500px
+    height 650px
     .bars
+      top tableHeight
+      position absolute
       width 100%
-      height @height
+      height barsHeight
       .year
         float left
         width (100% / 25)
@@ -21,4 +26,5 @@
         .item
           position absolute
           width 100%
-          background green
+          &:hover
+            opacity 0.5

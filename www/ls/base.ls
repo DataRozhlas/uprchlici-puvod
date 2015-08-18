@@ -15,5 +15,6 @@ for country in countries
 container = d3.select ig.containers.base
 leftDisplayContainer = container.append \div
   ..attr \class \display
+new Tooltip!watchElements!
 new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
