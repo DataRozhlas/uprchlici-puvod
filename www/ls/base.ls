@@ -11,3 +11,9 @@ data = d3.tsv.parse ig.data.uprchlici, (row) ->
 
 for country in countries
   country.sortYears!
+
+container = d3.select ig.containers.base
+leftDisplayContainer = container.append \div
+  ..attr \class \display
+new ig.Display leftDisplayContainer
+  ..display countriesAssoc['Czech Rep.']
