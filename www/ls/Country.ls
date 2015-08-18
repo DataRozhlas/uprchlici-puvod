@@ -1,5 +1,6 @@
 class ig.Country
-  (@name) ->
+  (@englishName) ->
+    @name = ig.countryNames[@englishName]
     @years = [1990 to 2014].map -> new Year it
 
   addLine: (year, source, amount) ->
@@ -32,4 +33,5 @@ class Year
 
 
 class Source
-  (@country, @amount, @previousAmount = 0) ->
+  (@countryEnglishName, @amount, @previousAmount = 0) ->
+    @country = ig.countryNames[@countryEnglishName]
