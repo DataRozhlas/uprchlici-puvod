@@ -8,6 +8,7 @@ barsHeight = 300px
 .ig
   @import basics
 .ig
+  font-family 'Roboto', helvetica, arial, sans-serif
   .display
     position relative
     width 50%
@@ -28,3 +29,25 @@ barsHeight = 300px
           width 100%
           &:hover
             opacity 0.5
+    ol.top-ten
+      list-style-type none
+      li
+        clear left
+        font-size 0.9em
+        span
+          padding 2px 0px
+        span.name
+          display block
+          float left
+          width 150px
+          padding-left 5px
+        span.amount
+          font-weight 500
+          display block
+          float left
+          width 45px
+          text-align right
+          padding-right 5px
+        &:nth-child(2n) span
+          background #fa
+

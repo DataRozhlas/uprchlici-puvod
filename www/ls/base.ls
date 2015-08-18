@@ -10,7 +10,7 @@ data = d3.tsv.parse ig.data.uprchlici, (row) ->
   row
 
 for country in countries
-  country.sortYears!
+  country.init!
 
 container = d3.select ig.containers.base
 leftDisplayContainer = container.append \div
@@ -18,3 +18,4 @@ leftDisplayContainer = container.append \div
 new Tooltip!watchElements!
 new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
+console.log countriesAssoc['Czech Rep.']
