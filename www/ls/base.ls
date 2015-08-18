@@ -18,4 +18,3 @@ leftDisplayContainer = container.append \div
 new Tooltip!watchElements!
 new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
-console.log countriesAssoc['Czech Rep.']

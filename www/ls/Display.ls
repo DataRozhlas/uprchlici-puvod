@@ -22,7 +22,7 @@ class ig.Display
       ..range [0 100]
 
     @years.datum (d, i) -> country.years[i]
-    @years.selectAll \div.item .data (.sources), (.country)
+    @yearSources = @years.selectAll \div.item .data (.sources), (.country)
       ..enter!append \div
         ..attr \class \item
         ..style \background-color -> color it.countryEnglishName
@@ -39,4 +39,17 @@ class ig.Display
         ..append \span
           ..attr \class \amount
           ..html -> ig.utils.formatNumber it.amount
+        ..on \mouseover ~> @highlight it.countryEnglishName
+        ..on \touchstart ~> @highlight it.countryEnglishName
+        ..on \mouseout ~> @downlight!
+        ..on \touchend ~> @downlight!
       ..exit!remove!
+
+  highlight: (countryEnglishName) ->
+    @bars.classed \highlight yes
+    @yearSources.classed \active -> it.countryEnglishName is countryEnglishName
+
+
+  downlight: ->
+    @bars.classed \highlight no
+    @yearSources.classed \active no
