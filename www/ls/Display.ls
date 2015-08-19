@@ -11,9 +11,14 @@ class ig.Display
       ..attr \class \bars
     @years = @bars.selectAll \div .data [1990 to 2014] .enter!append \div
       ..attr \class \year
-
     @topTen = @element.append \ol
       ..attr \class \top-ten
+    @legend = @element.append \div
+      ..attr \class \legend
+      ..selectAll \div.item .data [1990, 1995, 2000, 2005, 2010, 2014] .enter!append \div
+        ..attr \class \item
+        ..html -> it
+        ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
 
   display: (country) ->
     max = d3.max country.years.map (.sum)

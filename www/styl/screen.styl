@@ -9,6 +9,9 @@ barsHeight = 300px
   @import basics
 .ig
   font-family 'Roboto', helvetica, arial, sans-serif
+  width calc(100% - 40px)
+  position relative
+  left 30px
   .display
     position relative
     width 50%
@@ -38,6 +41,12 @@ barsHeight = 300px
             bottom 0px !important
     ol.top-ten
       list-style-type none
+      margin 0px
+      padding 0px
+      position absolute
+      top 0px
+      right 0px
+      width (150px + 75px)
       li
         position absolute
         clear left
@@ -68,4 +77,13 @@ barsHeight = 300px
           background #fa
         &:hover span
           font-weight 700
+    .legend
+      position absolute
+      top (tableHeight + barsHeight + 23px)
+      width 100%
+      font-size 0.8em
+      .item
+        position absolute
+        bottom 0px
+        transform translate(-50%, 0)
 
