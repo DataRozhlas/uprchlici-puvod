@@ -14,7 +14,8 @@ barsHeight = 300px
   left 30px
   .display
     position relative
-    width 50%
+    float left
+    width calc(50% - 20px)
     height 650px
     .bars
       top tableHeight
@@ -86,4 +87,7 @@ barsHeight = 300px
         position absolute
         bottom 0px
         transform translate(-50%, 0)
-
+    &:last-of-type
+      float right
+      .top-ten
+        left 0px

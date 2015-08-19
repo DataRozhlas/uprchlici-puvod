@@ -1,12 +1,19 @@
+yScale = d3.scale.linear!
+  ..range [0 100]
 colorScale = d3.scale.category20!
 color = (country) ->
   if country != "other"
     colorScale country
   else
     \#aaa
-
+displays = []
 class ig.Display
   (@element) ->
+    displays.push @
+    if displays.0 != @
+      displays.0.otherDisplay = @
+      @otherDisplay = displays.0
+
     @bars = @element.append \div
       ..attr \class \bars
     @years = @bars.selectAll \div .data [1990 to 2014] .enter!append \div
@@ -21,20 +28,23 @@ class ig.Display
         ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
 
   display: (country) ->
-    max = d3.max country.years.map (.sum)
-    yScale = d3.scale.linear!
-      ..domain [0 max]
-      ..range [0 100]
-
+    @max = d3.max country.years.map (.sum)
+    domainMax = yScale.domain!1
+    if @otherDisplay
+      maxMax = Math.max @max, @otherDisplay.max
+      yScale.domain [0 maxMax]
+      if maxMax != domainMax
+        @otherDisplay.updateYScale!
+    else
+      yScale.domain [0 @max]
     @years.datum (d, i) -> country.years[i]
     @yearSources = @years.selectAll \div.item .data (.sources), (.country)
       ..enter!append \div
         ..attr \class \item
         ..style \background-color -> color it.countryEnglishName
       ..exit!remove!
-      ..style \bottom -> "#{yScale it.previousAmount}%"
-      ..style \height -> "#{yScale it.amount}%"
       ..attr \data-tooltip -> "#{it.country}: #{ig.utils.formatNumber it.amount}"
+    @updateYScale!
     topTenSources = country.sources.slice 0, 10
     lineHeight = 23
     @topTen.selectAll \li .data topTenSources, (.country)
@@ -55,6 +65,11 @@ class ig.Display
       ..select \span.amount .html -> ig.utils.formatNumber it.amount
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
+
+  updateYScale: ->
+    @yearSources
+      ..style \bottom -> "#{yScale it.previousAmount}%"
+      ..style \height -> "#{yScale it.amount}%"
 
   highlight: (countryEnglishName) ->
     @bars.classed \highlight yes

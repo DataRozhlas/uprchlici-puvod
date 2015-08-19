@@ -15,8 +15,12 @@ for country in countries
 container = d3.select ig.containers.base
 leftDisplayContainer = container.append \div
   ..attr \class \display
+rightDisplayContainer = container.append \div
+  ..attr \class \display
 new Tooltip!watchElements!
 display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
+display2 = new ig.Display rightDisplayContainer
+  ..display countriesAssoc['Hungary']
 # <~ setTimeout _, 1000
 # display1.display countriesAssoc['Italy']
