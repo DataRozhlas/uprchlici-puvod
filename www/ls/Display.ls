@@ -39,6 +39,9 @@ class ig.Display
           ..html (.country)
         ..append \span
           ..attr \class \amount
+        ..append \div
+          ..attr \class \square
+          ..style \background-color -> color it.countryEnglishName
         ..on \mouseover ~> @highlight it.countryEnglishName
         ..on \touchstart ~> @highlight it.countryEnglishName
         ..on \mouseout ~> @downlight!
