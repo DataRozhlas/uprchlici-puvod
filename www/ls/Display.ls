@@ -26,6 +26,7 @@ class ig.Display
         ..attr \class \item
         ..html -> it
         ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
+    @heading = @element.append \h2
 
   display: (country) ->
     @max = d3.max country.years.map (.sum)
@@ -65,6 +66,7 @@ class ig.Display
       ..select \span.amount .html -> ig.utils.formatNumber it.amount
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
+    @heading.html country.name
 
   updateYScale: ->
     @yearSources

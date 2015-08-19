@@ -23,4 +23,4 @@ display1 = new ig.Display leftDisplayContainer
 display2 = new ig.Display rightDisplayContainer
   ..display countriesAssoc['Hungary']
 # <~ setTimeout _, 1000
-# display1.display countriesAssoc['Italy']
+# display2.display countriesAssoc['Italy']
