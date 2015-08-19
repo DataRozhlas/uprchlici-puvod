@@ -14,6 +14,7 @@ year	target	source	amount
 1990	Dem. Rep. of the Congo	Rwanda	12596
 1990	Dem. Rep. of the Congo	Sudan	70900
 1990	Dem. Rep. of the Congo	Uganda	10099
+1990	Cyprus	other	33
 1990	Germany	other	816000
 1990	Algeria	other	110
 1990	Algeria	Western Sahara	165000
@@ -52,6 +53,12 @@ year	target	source	amount
 1990	Guinea	other	0
 1990	Guinea	Liberia	325000
 1990	Greece	other	8488
+1990	Hungary	other	14793
+1990	Hungary	Albania	180
+1990	Hungary	Bulgaria	60
+1990	Hungary	Czech Rep.	70
+1990	Hungary	Romania	29480
+1990	Hungary	Russian Federation	540
 1990	India	other	192
 1990	India	Afghanistan	11946
 1990	India	Iran (Islamic Rep. of)	605
@@ -59,6 +66,30 @@ year	target	source	amount
 1990	Iran (Islamic Rep. of)	other	0
 1990	Iran (Islamic Rep. of)	Afghanistan	3061110
 1990	Iran (Islamic Rep. of)	Iraq	1113291
+1990	Italy	other	360
+1990	Italy	Afghanistan	394
+1990	Italy	Angola	47
+1990	Italy	Albania	531
+1990	Italy	Bulgaria	78
+1990	Italy	Chile	94
+1990	Italy	Dem. Rep. of the Congo	57
+1990	Italy	Czech Rep.	225
+1990	Italy	Eritrea	43
+1990	Italy	Ethiopia	1068
+1990	Italy	Ghana	126
+1990	Italy	Hungary	142
+1990	Italy	Iran (Islamic Rep. of)	2755
+1990	Italy	Iraq	541
+1990	Italy	Cambodia	106
+1990	Italy	Lebanon	51
+1990	Italy	Libya	168
+1990	Italy	Sri Lanka	118
+1990	Italy	Poland	879
+1990	Italy	Romania	869
+1990	Italy	Russian Federation	781
+1990	Italy	Sudan	64
+1990	Italy	Somalia	583
+1990	Italy	Viet Nam	760
 1990	Jordan	other	510
 1990	Jordan	Ethiopia	130
 1990	Kenya	other	0
@@ -188,6 +219,8 @@ year	target	source	amount
 1991	Dem. Rep. of the Congo	Rwanda	50930
 1991	Dem. Rep. of the Congo	Sudan	90780
 1991	Dem. Rep. of the Congo	Uganda	20111
+1991	Cyprus	other	10
+1991	Cyprus	Iraq	50
 1991	Czech Rep.	other	691
 1991	Germany	other	821500
 1991	Algeria	other	124
@@ -238,6 +271,10 @@ year	target	source	amount
 1991	Guinea	Liberia	405355
 1991	Guinea	Sierra Leone	142601
 1991	Greece	other	8989
+1991	Hungary	other	27208
+1991	Hungary	Romania	3110
+1991	Hungary	Russian Federation	520
+1991	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	43000
 1991	India	other	0
 1991	India	Afghanistan	9766
 1991	India	Iran (Islamic Rep. of)	803
@@ -245,6 +282,30 @@ year	target	source	amount
 1991	Iran (Islamic Rep. of)	other	0
 1991	Iran (Islamic Rep. of)	Afghanistan	3186616
 1991	Iran (Islamic Rep. of)	Iraq	1218379
+1991	Italy	other	311
+1991	Italy	Afghanistan	121
+1991	Italy	Angola	51
+1991	Italy	Albania	1202
+1991	Italy	Bulgaria	71
+1991	Italy	Chile	94
+1991	Italy	Dem. Rep. of the Congo	61
+1991	Italy	Czech Rep.	184
+1991	Italy	Eritrea	43
+1991	Italy	Ethiopia	925
+1991	Italy	Ghana	126
+1991	Italy	Hungary	58
+1991	Italy	Iran (Islamic Rep. of)	2730
+1991	Italy	Iraq	505
+1991	Italy	Cambodia	52
+1991	Italy	Lebanon	59
+1991	Italy	Libya	147
+1991	Italy	Sri Lanka	124
+1991	Italy	Poland	729
+1991	Italy	Romania	740
+1991	Italy	Russian Federation	44
+1991	Italy	Sudan	66
+1991	Italy	Somalia	660
+1991	Italy	Viet Nam	710
 1991	Jordan	other	50
 1991	Jordan	Ethiopia	80
 1991	Jordan	Iraq	310
@@ -391,6 +452,7 @@ year	target	source	amount
 1992	Dem. Rep. of the Congo	Sudan	109373
 1992	Dem. Rep. of the Congo	Uganda	21085
 1992	Dem. Rep. of the Congo	Zambia	1990
+1992	Cyprus	other	80
 1992	Czech Rep.	other	899
 1992	Czech Rep.	Serbia and Kosovo (S/RES/1244 (1999))	8500
 1992	Germany	other	1236000
@@ -443,6 +505,10 @@ year	target	source	amount
 1992	Guinea	Sierra Leone	153573
 1992	Greece	other	8456
 1992	Croatia	other	403000
+1992	Hungary	other	482
+1992	Hungary	Romania	2370
+1992	Hungary	Russian Federation	60
+1992	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	29500
 1992	India	other	0
 1992	India	Afghanistan	11002
 1992	India	Bangladesh	53187
@@ -452,6 +518,27 @@ year	target	source	amount
 1992	Iran (Islamic Rep. of)	other	0
 1992	Iran (Islamic Rep. of)	Afghanistan	2900666
 1992	Iran (Islamic Rep. of)	Iraq	1250057
+1992	Italy	other	388
+1992	Italy	Afghanistan	107
+1992	Italy	Angola	54
+1992	Italy	Albania	1279
+1992	Italy	Bulgaria	69
+1992	Italy	Chile	86
+1992	Italy	Dem. Rep. of the Congo	69
+1992	Italy	Czech Rep.	116
+1992	Italy	Ethiopia	880
+1992	Italy	Ghana	126
+1992	Italy	Hungary	41
+1992	Italy	Iran (Islamic Rep. of)	2615
+1992	Italy	Iraq	542
+1992	Italy	Lebanon	66
+1992	Italy	Libya	115
+1992	Italy	Sri Lanka	130
+1992	Italy	Poland	589
+1992	Italy	Romania	593
+1992	Italy	Sudan	70
+1992	Italy	Somalia	716
+1992	Italy	Viet Nam	607
 1992	Jordan	other	10
 1992	Jordan	Bosnia and Herzegovina	100
 1992	Jordan	Iraq	160
@@ -670,6 +757,8 @@ year	target	source	amount
 1993	Dem. Rep. of the Congo	Sudan	111219
 1993	Dem. Rep. of the Congo	Uganda	21754
 1993	Dem. Rep. of the Congo	Zambia	1573
+1993	Cyprus	other	40
+1993	Cyprus	Bosnia and Herzegovina	42
 1993	Czech Rep.	other	188
 1993	Germany	other	1418000
 1993	Algeria	other	69
@@ -737,6 +826,11 @@ year	target	source	amount
 1993	Greece	Viet Nam	500
 1993	Croatia	other	0
 1993	Croatia	Bosnia and Herzegovina	287000
+1993	Hungary	other	61
+1993	Hungary	Croatia	129
+1993	Hungary	Romania	2138
+1993	Hungary	Russian Federation	52
+1993	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	643
 1993	India	other	105
 1993	India	Afghanistan	24421
 1993	India	Bangladesh	56000
@@ -749,6 +843,28 @@ year	target	source	amount
 1993	Iran (Islamic Rep. of)	other	38
 1993	Iran (Islamic Rep. of)	Afghanistan	1850000
 1993	Iran (Islamic Rep. of)	Iraq	645000
+1993	Italy	other	32329
+1993	Italy	Afghanistan	46
+1993	Italy	Angola	48
+1993	Italy	Albania	1266
+1993	Italy	Bulgaria	63
+1993	Italy	Chile	75
+1993	Italy	Dem. Rep. of the Congo	66
+1993	Italy	Czech Rep.	74
+1993	Italy	Ethiopia	751
+1993	Italy	Ghana	110
+1993	Italy	Iran (Islamic Rep. of)	2227
+1993	Italy	Iraq	518
+1993	Italy	Lebanon	66
+1993	Italy	Libya	99
+1993	Italy	Sri Lanka	133
+1993	Italy	Poland	553
+1993	Italy	Romania	537
+1993	Italy	Sudan	87
+1993	Italy	Somalia	10718
+1993	Italy	Serbia and Kosovo (S/RES/1244 (1999))	43
+1993	Italy	Turkey	44
+1993	Italy	Viet Nam	423
 1993	Jordan	other	18
 1993	Jordan	Bosnia and Herzegovina	388
 1993	Jordan	Iraq	62
@@ -1092,6 +1208,8 @@ year	target	source	amount
 1994	Dem. Rep. of the Congo	Rwanda	1252837
 1994	Dem. Rep. of the Congo	Sudan	111872
 1994	Dem. Rep. of the Congo	Uganda	18560
+1994	Cyprus	other	15
+1994	Cyprus	Bosnia and Herzegovina	51
 1994	Czech Rep.	other	919
 1994	Czech Rep.	Russian Federation	267
 1994	Germany	other	1004600
@@ -1169,6 +1287,10 @@ year	target	source	amount
 1994	Greece	Viet Nam	500
 1994	Croatia	other	0
 1994	Croatia	Bosnia and Herzegovina	183600
+1994	Hungary	other	92
+1994	Hungary	Romania	1822
+1994	Hungary	Russian Federation	80
+1994	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	912
 1994	India	other	75
 1994	India	Afghanistan	22362
 1994	India	Bangladesh	53465
@@ -1182,6 +1304,27 @@ year	target	source	amount
 1994	Iran (Islamic Rep. of)	other	19
 1994	Iran (Islamic Rep. of)	Afghanistan	1623331
 1994	Iran (Islamic Rep. of)	Iraq	613000
+1994	Italy	other	56335
+1994	Italy	Afghanistan	48
+1994	Italy	Angola	51
+1994	Italy	Albania	1252
+1994	Italy	Bulgaria	46
+1994	Italy	Chile	54
+1994	Italy	Dem. Rep. of the Congo	65
+1994	Italy	Czech Rep.	50
+1994	Italy	Ethiopia	613
+1994	Italy	Iran (Islamic Rep. of)	1629
+1994	Italy	Iraq	496
+1994	Italy	Lebanon	68
+1994	Italy	Libya	84
+1994	Italy	Sri Lanka	135
+1994	Italy	Poland	442
+1994	Italy	Romania	485
+1994	Italy	Sudan	131
+1994	Italy	Somalia	10720
+1994	Italy	Serbia and Kosovo (S/RES/1244 (1999))	57
+1994	Italy	Turkey	45
+1994	Italy	Viet Nam	254
 1994	Jordan	other	46
 1994	Jordan	Bosnia and Herzegovina	265
 1994	Jordan	Iraq	269
@@ -1547,6 +1690,8 @@ year	target	source	amount
 1995	Dem. Rep. of the Congo	Rwanda	1100642
 1995	Dem. Rep. of the Congo	Sudan	94192
 1995	Dem. Rep. of the Congo	Uganda	12611
+1995	Cyprus	other	12
+1995	Cyprus	Bosnia and Herzegovina	43
 1995	Czech Rep.	other	2655
 1995	Germany	other	947900
 1995	Germany	Bosnia and Herzegovina	320000
@@ -1675,6 +1820,8 @@ year	target	source	amount
 1995	Croatia	other	0
 1995	Croatia	Bosnia and Herzegovina	193544
 1995	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	5103
+1995	Hungary	other	2841
+1995	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	8553
 1995	India	other	88
 1995	India	Afghanistan	19916
 1995	India	Bangladesh	53500
@@ -1687,6 +1834,30 @@ year	target	source	amount
 1995	Iran (Islamic Rep. of)	other	47450
 1995	Iran (Islamic Rep. of)	Afghanistan	1429038
 1995	Iran (Islamic Rep. of)	Iraq	595500
+1995	Italy	other	351
+1995	Italy	Afghanistan	52
+1995	Italy	Angola	58
+1995	Italy	Albania	1260
+1995	Italy	Bosnia and Herzegovina	8276
+1995	Italy	Dem. Rep. of the Congo	61
+1995	Italy	Czech Rep.	45
+1995	Italy	Ethiopia	542
+1995	Italy	Croatia	10099
+1995	Italy	Iran (Islamic Rep. of)	1301
+1995	Italy	Iraq	508
+1995	Italy	Lebanon	68
+1995	Italy	Libya	48
+1995	Italy	Sri Lanka	126
+1995	Italy	The former Yugoslav Republic of Macedonia	12360
+1995	Italy	Poland	312
+1995	Italy	Romania	447
+1995	Italy	Rwanda	70
+1995	Italy	Sudan	150
+1995	Italy	Somalia	10000
+1995	Italy	Serbia and Kosovo (S/RES/1244 (1999))	27873
+1995	Italy	Syrian Arab Rep.	41
+1995	Italy	Turkey	52
+1995	Italy	Viet Nam	202
 1995	Jordan	other	34
 1995	Jordan	Bosnia and Herzegovina	249
 1995	Jordan	Iraq	415
@@ -2112,6 +2283,7 @@ year	target	source	amount
 1996	Dem. Rep. of the Congo	Rwanda	423561
 1996	Dem. Rep. of the Congo	Sudan	96529
 1996	Dem. Rep. of the Congo	Uganda	17289
+1996	Cyprus	other	49
 1996	Czech Rep.	other	500
 1996	Czech Rep.	Afghanistan	125
 1996	Czech Rep.	Armenia	105
@@ -2251,6 +2423,8 @@ year	target	source	amount
 1996	Croatia	other	0
 1996	Croatia	Bosnia and Herzegovina	158659
 1996	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	6736
+1996	Hungary	other	2831
+1996	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	4706
 1996	India	other	75
 1996	India	Afghanistan	18607
 1996	India	Bangladesh	53500
@@ -2263,6 +2437,28 @@ year	target	source	amount
 1996	Iran (Islamic Rep. of)	other	36500
 1996	Iran (Islamic Rep. of)	Afghanistan	1414659
 1996	Iran (Islamic Rep. of)	Iraq	579200
+1996	Italy	other	459
+1996	Italy	Afghanistan	52
+1996	Italy	Angola	62
+1996	Italy	Albania	1266
+1996	Italy	Bosnia and Herzegovina	7958
+1996	Italy	Dem. Rep. of the Congo	69
+1996	Italy	Ethiopia	481
+1996	Italy	Croatia	8451
+1996	Italy	Iran (Islamic Rep. of)	914
+1996	Italy	Iraq	502
+1996	Italy	Lebanon	69
+1996	Italy	Sri Lanka	81
+1996	Italy	The former Yugoslav Republic of Macedonia	11300
+1996	Italy	Poland	247
+1996	Italy	Romania	393
+1996	Italy	Rwanda	102
+1996	Italy	Sudan	151
+1996	Italy	Somalia	10000
+1996	Italy	Serbia and Kosovo (S/RES/1244 (1999))	21864
+1996	Italy	Slovenia	130
+1996	Italy	Turkey	50
+1996	Italy	Viet Nam	110
 1996	Jordan	other	34
 1996	Jordan	Bosnia and Herzegovina	93
 1996	Jordan	Iraq	654
@@ -2709,6 +2905,7 @@ year	target	source	amount
 1997	Dem. Rep. of the Congo	Sudan	61181
 1997	Dem. Rep. of the Congo	Somalia	73
 1997	Dem. Rep. of the Congo	Uganda	44289
+1997	Cyprus	other	43
 1997	Czech Rep.	other	330
 1997	Czech Rep.	Afghanistan	151
 1997	Czech Rep.	Albania	46
@@ -2852,6 +3049,8 @@ year	target	source	amount
 1997	Croatia	other	0
 1997	Croatia	Bosnia and Herzegovina	68340
 1997	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	523
+1997	Hungary	other	2647
+1997	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	3243
 1997	India	other	30
 1997	India	Afghanistan	17456
 1997	India	Bangladesh	40080
@@ -2865,6 +3064,28 @@ year	target	source	amount
 1997	Iran (Islamic Rep. of)	other	0
 1997	Iran (Islamic Rep. of)	Afghanistan	1411759
 1997	Iran (Islamic Rep. of)	Iraq	570794
+1997	Italy	other	452
+1997	Italy	Afghanistan	44
+1997	Italy	Angola	47
+1997	Italy	Albania	1336
+1997	Italy	Bosnia and Herzegovina	8918
+1997	Italy	Dem. Rep. of the Congo	94
+1997	Italy	Ethiopia	401
+1997	Italy	Croatia	8801
+1997	Italy	Iran (Islamic Rep. of)	619
+1997	Italy	Iraq	439
+1997	Italy	Lebanon	71
+1997	Italy	Sri Lanka	78
+1997	Italy	The former Yugoslav Republic of Macedonia	11013
+1997	Italy	Poland	63
+1997	Italy	Romania	360
+1997	Italy	Rwanda	124
+1997	Italy	Sudan	162
+1997	Italy	Somalia	10720
+1997	Italy	Serbia and Kosovo (S/RES/1244 (1999))	22602
+1997	Italy	Slovenia	134
+1997	Italy	Turkey	64
+1997	Italy	Viet Nam	78
 1997	Jordan	other	47
 1997	Jordan	Bosnia and Herzegovina	88
 1997	Jordan	Iraq	533
@@ -3384,6 +3605,7 @@ year	target	source	amount
 1998	Dem. Rep. of the Congo	Sudan	31100
 1998	Dem. Rep. of the Congo	Somalia	70
 1998	Dem. Rep. of the Congo	Uganda	2000
+1998	Cyprus	other	84
 1998	Czech Rep.	other	336
 1998	Czech Rep.	Afghanistan	166
 1998	Czech Rep.	Albania	46
@@ -3549,6 +3771,8 @@ year	target	source	amount
 1998	Croatia	other	0
 1998	Croatia	Bosnia and Herzegovina	28659
 1998	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	368
+1998	Hungary	other	3018
+1998	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	486
 1998	India	other	27
 1998	India	Afghanistan	16058
 1998	India	China	98000
@@ -3562,6 +3786,22 @@ year	target	source	amount
 1998	Iran (Islamic Rep. of)	Afghanistan	1400722
 1998	Iran (Islamic Rep. of)	Iraq	530610
 1998	Israel	other	27
+1998	Italy	other	476
+1998	Italy	Afghanistan	43
+1998	Italy	Albania	1379
+1998	Italy	Dem. Rep. of the Congo	138
+1998	Italy	Ethiopia	309
+1998	Italy	Iran (Islamic Rep. of)	436
+1998	Italy	Iraq	627
+1998	Italy	Lebanon	61
+1998	Italy	Sri Lanka	69
+1998	Italy	Romania	332
+1998	Italy	Rwanda	141
+1998	Italy	Sudan	155
+1998	Italy	Somalia	680
+1998	Italy	Serbia and Kosovo (S/RES/1244 (1999))	173
+1998	Italy	Turkey	387
+1998	Italy	Viet Nam	67
 1998	Jordan	other	101
 1998	Jordan	Iraq	676
 1998	Kenya	other	1657
@@ -4102,6 +4342,8 @@ year	target	source	amount
 1999	Dem. Rep. of the Congo	Rwanda	33000
 1999	Dem. Rep. of the Congo	Sudan	68000
 1999	Dem. Rep. of the Congo	Uganda	3240
+1999	Cyprus	other	72
+1999	Cyprus	Iraq	45
 1999	Czech Rep.	other	427
 1999	Czech Rep.	Afghanistan	174
 1999	Czech Rep.	Armenia	97
@@ -4269,6 +4511,12 @@ year	target	source	amount
 1999	Croatia	other	0
 1999	Croatia	Bosnia and Herzegovina	24960
 1999	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	3414
+1999	Hungary	other	346
+1999	Hungary	Afghanistan	601
+1999	Hungary	Cameroon	48
+1999	Hungary	Iraq	159
+1999	Hungary	Romania	1316
+1999	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2520
 1999	India	other	62
 1999	India	Afghanistan	14473
 1999	India	China	98001
@@ -4282,6 +4530,22 @@ year	target	source	amount
 1999	Iran (Islamic Rep. of)	Iraq	509964
 1999	Israel	other	32
 1999	Israel	Sierra Leone	96
+1999	Italy	other	490
+1999	Italy	Angola	52
+1999	Italy	Albania	1404
+1999	Italy	Burundi	41
+1999	Italy	Dem. Rep. of the Congo	165
+1999	Italy	Congo	48
+1999	Italy	Algeria	51
+1999	Italy	Ethiopia	205
+1999	Italy	Iran (Islamic Rep. of)	376
+1999	Italy	Iraq	773
+1999	Italy	Romania	291
+1999	Italy	Rwanda	161
+1999	Italy	Sudan	138
+1999	Italy	Somalia	195
+1999	Italy	Serbia and Kosovo (S/RES/1244 (1999))	1101
+1999	Italy	Turkey	533
 1999	Jordan	other	125
 1999	Jordan	Iraq	887
 1999	Kenya	other	812
@@ -4890,6 +5154,10 @@ year	target	source	amount
 2000	Dem. Rep. of the Congo	Rwanda	46327
 2000	Dem. Rep. of the Congo	Sudan	72928
 2000	Dem. Rep. of the Congo	Uganda	13022
+2000	Cyprus	other	105
+2000	Cyprus	Iran (Islamic Rep. of)	200
+2000	Cyprus	Iraq	59
+2000	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	191
 2000	Czech Rep.	other	392
 2000	Czech Rep.	Afghanistan	587
 2000	Czech Rep.	Armenia	286
@@ -5092,6 +5360,20 @@ year	target	source	amount
 2000	Croatia	other	8
 2000	Croatia	Bosnia and Herzegovina	20889
 2000	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	1547
+2000	Hungary	other	432
+2000	Hungary	Afghanistan	1142
+2000	Hungary	Armenia	64
+2000	Hungary	Bangladesh	242
+2000	Hungary	Cameroon	81
+2000	Hungary	Algeria	48
+2000	Hungary	Georgia	59
+2000	Hungary	Iraq	482
+2000	Hungary	Nigeria	51
+2000	Hungary	Romania	1333
+2000	Hungary	Sudan	61
+2000	Hungary	Sierra Leone	73
+2000	Hungary	Somalia	81
+2000	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2461
 2000	India	other	62
 2000	India	Afghanistan	12794
 2000	India	China	92343
@@ -5107,6 +5389,26 @@ year	target	source	amount
 2000	Israel	Ethiopia	219
 2000	Israel	Lebanon	3909
 2000	Israel	Sierra Leone	175
+2000	Italy	other	1198
+2000	Italy	Afghanistan	66
+2000	Italy	Angola	81
+2000	Italy	Albania	958
+2000	Italy	Burundi	47
+2000	Italy	Dem. Rep. of the Congo	214
+2000	Italy	Congo	143
+2000	Italy	Algeria	51
+2000	Italy	Ethiopia	201
+2000	Italy	Iran (Islamic Rep. of)	457
+2000	Italy	Iraq	923
+2000	Italy	Pakistan	47
+2000	Italy	Romania	84
+2000	Italy	Russian Federation	86
+2000	Italy	Rwanda	173
+2000	Italy	Sudan	164
+2000	Italy	Somalia	160
+2000	Italy	Serbia and Kosovo (S/RES/1244 (1999))	1101
+2000	Italy	Tunisia	53
+2000	Italy	Turkey	755
 2000	Jordan	other	88
 2000	Jordan	Iraq	8128
 2000	Jordan	Russian Federation	111
@@ -5782,6 +6084,13 @@ year	target	source	amount
 2001	Dem. Rep. of the Congo	Rwanda	30449
 2001	Dem. Rep. of the Congo	Sudan	75024
 2001	Dem. Rep. of the Congo	Uganda	20753
+2001	Cyprus	other	157
+2001	Cyprus	Iran (Islamic Rep. of)	729
+2001	Cyprus	Iraq	106
+2001	Cyprus	Lebanon	54
+2001	Cyprus	Pakistan	136
+2001	Cyprus	Palestinian	52
+2001	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	410
 2001	Czech Rep.	other	522
 2001	Czech Rep.	Afghanistan	332
 2001	Czech Rep.	Angola	41
@@ -6000,6 +6309,23 @@ year	target	source	amount
 2001	Croatia	Bosnia and Herzegovina	20421
 2001	Croatia	The former Yugoslav Republic of Macedonia	52
 2001	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	1406
+2001	Hungary	other	310
+2001	Hungary	Afghanistan	1686
+2001	Hungary	Armenia	57
+2001	Hungary	Bangladesh	316
+2001	Hungary	Cameroon	73
+2001	Hungary	Georgia	59
+2001	Hungary	Iran (Islamic Rep. of)	54
+2001	Hungary	Iraq	551
+2001	Hungary	Nigeria	76
+2001	Hungary	Pakistan	46
+2001	Hungary	Palestinian	52
+2001	Hungary	Romania	1320
+2001	Hungary	Sudan	43
+2001	Hungary	Sierra Leone	114
+2001	Hungary	Somalia	121
+2001	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2023
+2001	Hungary	Turkey	79
 2001	India	other	70
 2001	India	Afghanistan	12100
 2001	India	China	92344
@@ -6018,6 +6344,30 @@ year	target	source	amount
 2001	Israel	Lebanon	3909
 2001	Israel	Liberia	53
 2001	Israel	Sierra Leone	170
+2001	Italy	other	1210
+2001	Italy	Afghanistan	149
+2001	Italy	Angola	99
+2001	Italy	Albania	344
+2001	Italy	Burundi	47
+2001	Italy	Bosnia and Herzegovina	47
+2001	Italy	Cameroon	50
+2001	Italy	Dem. Rep. of the Congo	296
+2001	Italy	Congo	231
+2001	Italy	Colombia	69
+2001	Italy	Algeria	60
+2001	Italy	Ethiopia	259
+2001	Italy	Iran (Islamic Rep. of)	538
+2001	Italy	Iraq	1138
+2001	Italy	Pakistan	56
+2001	Italy	Romania	56
+2001	Italy	Russian Federation	197
+2001	Italy	Rwanda	192
+2001	Italy	Sudan	190
+2001	Italy	Sierra Leone	97
+2001	Italy	Somalia	115
+2001	Italy	Serbia and Kosovo (S/RES/1244 (1999))	1942
+2001	Italy	Tunisia	67
+2001	Italy	Turkey	1122
 2001	Jordan	other	39
 2001	Jordan	Egypt	115
 2001	Jordan	Iraq	5513
@@ -6687,6 +7037,14 @@ year	target	source	amount
 2002	Dem. Rep. of the Congo	Rwanda	20628
 2002	Dem. Rep. of the Congo	Sudan	75785
 2002	Dem. Rep. of the Congo	Uganda	23013
+2002	Cyprus	other	171
+2002	Cyprus	Iran (Islamic Rep. of)	922
+2002	Cyprus	Iraq	105
+2002	Cyprus	Lebanon	50
+2002	Cyprus	Pakistan	170
+2002	Cyprus	Palestinian	202
+2002	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	190
+2002	Cyprus	Turkey	107
 2002	Czech Rep.	other	588
 2002	Czech Rep.	Afghanistan	263
 2002	Czech Rep.	Armenia	500
@@ -7015,6 +7373,20 @@ year	target	source	amount
 2002	Croatia	Bosnia and Herzegovina	7672
 2002	Croatia	The former Yugoslav Republic of Macedonia	41
 2002	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	679
+2002	Hungary	other	415
+2002	Hungary	Afghanistan	1571
+2002	Hungary	Armenia	67
+2002	Hungary	Cameroon	77
+2002	Hungary	Georgia	86
+2002	Hungary	Iran (Islamic Rep. of)	79
+2002	Hungary	Iraq	1069
+2002	Hungary	Nigeria	70
+2002	Hungary	Romania	1317
+2002	Hungary	Russian Federation	56
+2002	Hungary	Sudan	119
+2002	Hungary	Sierra Leone	42
+2002	Hungary	Somalia	107
+2002	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2005
 2002	India	other	114
 2002	India	Afghanistan	11501
 2002	India	China	92346
@@ -7033,6 +7405,34 @@ year	target	source	amount
 2002	Israel	Lebanon	3917
 2002	Israel	Liberia	71
 2002	Israel	Sierra Leone	171
+2002	Italy	other	1179
+2002	Italy	Afghanistan	183
+2002	Italy	Angola	116
+2002	Italy	Albania	273
+2002	Italy	Burundi	47
+2002	Italy	Bosnia and Herzegovina	59
+2002	Italy	Cameroon	63
+2002	Italy	Dem. Rep. of the Congo	332
+2002	Italy	Congo	272
+2002	Italy	Colombia	103
+2002	Italy	Algeria	60
+2002	Italy	Eritrea	94
+2002	Italy	Ethiopia	284
+2002	Italy	Iran (Islamic Rep. of)	575
+2002	Italy	Iraq	1281
+2002	Italy	Sri Lanka	459
+2002	Italy	Nigeria	49
+2002	Italy	Pakistan	61
+2002	Italy	Romania	43
+2002	Italy	Russian Federation	209
+2002	Italy	Rwanda	191
+2002	Italy	Sudan	239
+2002	Italy	Sierra Leone	150
+2002	Italy	Somalia	74
+2002	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2227
+2002	Italy	Togo	68
+2002	Italy	Tunisia	66
+2002	Italy	Turkey	1303
 2002	Jordan	other	109
 2002	Jordan	Iraq	4576
 2002	Jordan	Russian Federation	91
@@ -7728,6 +8128,20 @@ year	target	source	amount
 2003	Dem. Rep. of the Congo	Rwanda	19938
 2003	Dem. Rep. of the Congo	Sudan	45069
 2003	Dem. Rep. of the Congo	Uganda	18957
+2003	Cyprus	other	81
+2003	Cyprus	Afghanistan	71
+2003	Cyprus	Bangladesh	2087
+2003	Cyprus	Egypt	42
+2003	Cyprus	Georgia	164
+2003	Cyprus	Iran (Islamic Rep. of)	942
+2003	Cyprus	Iraq	130
+2003	Cyprus	Lebanon	70
+2003	Cyprus	Pakistan	490
+2003	Cyprus	Palestinian	345
+2003	Cyprus	Russian Federation	277
+2003	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	65
+2003	Cyprus	Syrian Arab Rep.	57
+2003	Cyprus	Turkey	327
 2003	Czech Rep.	other	466
 2003	Czech Rep.	Afghanistan	263
 2003	Czech Rep.	Armenia	158
@@ -8061,6 +8475,23 @@ year	target	source	amount
 2003	Croatia	other	2
 2003	Croatia	Bosnia and Herzegovina	3930
 2003	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	461
+2003	Hungary	other	453
+2003	Hungary	Afghanistan	1791
+2003	Hungary	Armenia	98
+2003	Hungary	China	51
+2003	Hungary	Cameroon	82
+2003	Hungary	Algeria	73
+2003	Hungary	Georgia	117
+2003	Hungary	Iran (Islamic Rep. of)	146
+2003	Hungary	Iraq	1011
+2003	Hungary	Nigeria	118
+2003	Hungary	Romania	1328
+2003	Hungary	Russian Federation	125
+2003	Hungary	Sudan	102
+2003	Hungary	Sierra Leone	41
+2003	Hungary	Somalia	110
+2003	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2043
+2003	Hungary	Turkey	49
 2003	India	other	92
 2003	India	Afghanistan	10371
 2003	India	China	92349
@@ -8076,6 +8507,34 @@ year	target	source	amount
 2003	Israel	Ethiopia	77
 2003	Israel	Lebanon	3909
 2003	Israel	Sierra Leone	142
+2003	Italy	other	3442
+2003	Italy	Afghanistan	186
+2003	Italy	Angola	121
+2003	Italy	Albania	273
+2003	Italy	Burundi	47
+2003	Italy	Bosnia and Herzegovina	59
+2003	Italy	Cameroon	81
+2003	Italy	Dem. Rep. of the Congo	380
+2003	Italy	Congo	327
+2003	Italy	Colombia	114
+2003	Italy	Algeria	58
+2003	Italy	Eritrea	177
+2003	Italy	Ethiopia	333
+2003	Italy	Iran (Islamic Rep. of)	585
+2003	Italy	Iraq	1282
+2003	Italy	Sri Lanka	463
+2003	Italy	Nigeria	67
+2003	Italy	Pakistan	60
+2003	Italy	Romania	43
+2003	Italy	Russian Federation	219
+2003	Italy	Rwanda	190
+2003	Italy	Sudan	266
+2003	Italy	Sierra Leone	168
+2003	Italy	Somalia	94
+2003	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2230
+2003	Italy	Togo	136
+2003	Italy	Tunisia	66
+2003	Italy	Turkey	1374
 2003	Jordan	other	75
 2003	Jordan	Iraq	7482
 2003	Jordan	Russian Federation	89
@@ -8788,6 +9247,22 @@ year	target	source	amount
 2004	Dem. Rep. of the Congo	Rwanda	11906
 2004	Dem. Rep. of the Congo	Sudan	45232
 2004	Dem. Rep. of the Congo	Uganda	18957
+2004	Cyprus	other	149
+2004	Cyprus	Afghanistan	147
+2004	Cyprus	Bangladesh	2142
+2004	Cyprus	Egypt	79
+2004	Cyprus	Georgia	789
+2004	Cyprus	Iran (Islamic Rep. of)	1141
+2004	Cyprus	Iraq	181
+2004	Cyprus	Lebanon	110
+2004	Cyprus	Sri Lanka	505
+2004	Cyprus	Pakistan	1104
+2004	Cyprus	Palestinian	376
+2004	Cyprus	Russian Federation	658
+2004	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	86
+2004	Cyprus	Syrian Arab Rep.	558
+2004	Cyprus	Turkey	282
+2004	Cyprus	Ukraine	827
 2004	Czech Rep.	other	451
 2004	Czech Rep.	Afghanistan	259
 2004	Czech Rep.	Armenia	128
@@ -9123,6 +9598,23 @@ year	target	source	amount
 2004	Croatia	other	1
 2004	Croatia	Bosnia and Herzegovina	3207
 2004	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	467
+2004	Hungary	other	687
+2004	Hungary	Afghanistan	2502
+2004	Hungary	Armenia	81
+2004	Hungary	Cameroon	85
+2004	Hungary	Algeria	77
+2004	Hungary	Ethiopia	47
+2004	Hungary	Georgia	133
+2004	Hungary	Iran (Islamic Rep. of)	162
+2004	Hungary	Iraq	1297
+2004	Hungary	Nigeria	103
+2004	Hungary	Palestinian	77
+2004	Hungary	Russian Federation	108
+2004	Hungary	Sudan	131
+2004	Hungary	Sierra Leone	51
+2004	Hungary	Somalia	151
+2004	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2299
+2004	Hungary	Turkey	59
 2004	India	other	94
 2004	India	Afghanistan	9831
 2004	India	China	94349
@@ -9139,6 +9631,40 @@ year	target	source	amount
 2004	Israel	Ethiopia	61
 2004	Israel	Liberia	65
 2004	Israel	Sierra Leone	68
+2004	Italy	other	3346
+2004	Italy	Afghanistan	242
+2004	Italy	Angola	135
+2004	Italy	Albania	282
+2004	Italy	Burundi	43
+2004	Italy	Bosnia and Herzegovina	52
+2004	Italy	C�te d'Ivoire	107
+2004	Italy	Cameroon	120
+2004	Italy	Dem. Rep. of the Congo	414
+2004	Italy	Congo	403
+2004	Italy	Colombia	120
+2004	Italy	Algeria	61
+2004	Italy	Eritrea	785
+2004	Italy	Ethiopia	478
+2004	Italy	Georgia	41
+2004	Italy	Ghana	64
+2004	Italy	Iran (Islamic Rep. of)	523
+2004	Italy	Iraq	1334
+2004	Italy	Liberia	692
+2004	Italy	Sri Lanka	466
+2004	Italy	The former Yugoslav Republic of Macedonia	45
+2004	Italy	Nigeria	107
+2004	Italy	Pakistan	60
+2004	Italy	Romania	57
+2004	Italy	Russian Federation	226
+2004	Italy	Rwanda	179
+2004	Italy	Sudan	440
+2004	Italy	Sierra Leone	209
+2004	Italy	Somalia	598
+2004	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2302
+2004	Italy	Syrian Arab Rep.	41
+2004	Italy	Togo	228
+2004	Italy	Tunisia	67
+2004	Italy	Turkey	1407
 2004	Jordan	other	125
 2004	Jordan	Iraq	12967
 2004	Jordan	Russian Federation	94
@@ -9851,6 +10377,27 @@ year	target	source	amount
 2005	Dem. Rep. of the Congo	Rwanda	42438
 2005	Dem. Rep. of the Congo	Sudan	11726
 2005	Dem. Rep. of the Congo	Uganda	18954
+2005	Cyprus	other	174
+2005	Cyprus	Afghanistan	158
+2005	Cyprus	Armenia	267
+2005	Cyprus	Bangladesh	1569
+2005	Cyprus	Dem. Rep. of the Congo	47
+2005	Cyprus	Egypt	154
+2005	Cyprus	Georgia	1218
+2005	Cyprus	Iran (Islamic Rep. of)	1128
+2005	Cyprus	Iraq	264
+2005	Cyprus	Jordan	120
+2005	Cyprus	Lebanon	188
+2005	Cyprus	Sri Lanka	738
+2005	Cyprus	Rep. of Moldova	168
+2005	Cyprus	Pakistan	1409
+2005	Cyprus	Palestinian	581
+2005	Cyprus	Russian Federation	914
+2005	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	91
+2005	Cyprus	Syrian Arab Rep.	1577
+2005	Cyprus	Turkey	377
+2005	Cyprus	Ukraine	1112
+2005	Cyprus	Uzbekistan	63
 2005	Czech Rep.	other	662
 2005	Czech Rep.	Afghanistan	244
 2005	Czech Rep.	Armenia	105
@@ -10187,6 +10734,29 @@ year	target	source	amount
 2005	Croatia	other	0
 2005	Croatia	Bosnia and Herzegovina	2545
 2005	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	382
+2005	Hungary	other	816
+2005	Hungary	Afghanistan	2385
+2005	Hungary	Armenia	144
+2005	Hungary	China	54
+2005	Hungary	Cameroon	105
+2005	Hungary	Dem. Rep. of the Congo	41
+2005	Hungary	Algeria	83
+2005	Hungary	Ethiopia	53
+2005	Hungary	Georgia	107
+2005	Hungary	Iran (Islamic Rep. of)	159
+2005	Hungary	Iraq	1255
+2005	Hungary	Nigeria	139
+2005	Hungary	Pakistan	64
+2005	Hungary	Palestinian	108
+2005	Hungary	Russian Federation	139
+2005	Hungary	Sudan	143
+2005	Hungary	Sierra Leone	81
+2005	Hungary	Somalia	156
+2005	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2444
+2005	Hungary	Syrian Arab Rep.	49
+2005	Hungary	Turkey	72
+2005	Hungary	Ukraine	55
+2005	Hungary	Viet Nam	62
 2005	India	other	83
 2005	India	Afghanistan	9720
 2005	India	China	77200
@@ -10207,6 +10777,42 @@ year	target	source	amount
 2005	Israel	Sudan	107
 2005	Israel	Sierra Leone	70
 2005	Israel	Turkey	61
+2005	Italy	other	3408
+2005	Italy	Afghanistan	302
+2005	Italy	Angola	127
+2005	Italy	Albania	282
+2005	Italy	Burundi	41
+2005	Italy	Bangladesh	67
+2005	Italy	Bosnia and Herzegovina	52
+2005	Italy	C�te d'Ivoire	560
+2005	Italy	Cameroon	169
+2005	Italy	Dem. Rep. of the Congo	459
+2005	Italy	Congo	455
+2005	Italy	Colombia	148
+2005	Italy	Algeria	60
+2005	Italy	Eritrea	2705
+2005	Italy	Ethiopia	1065
+2005	Italy	Georgia	41
+2005	Italy	Ghana	95
+2005	Italy	Iran (Islamic Rep. of)	524
+2005	Italy	Iraq	1354
+2005	Italy	Liberia	819
+2005	Italy	Sri Lanka	499
+2005	Italy	The former Yugoslav Republic of Macedonia	58
+2005	Italy	Nigeria	209
+2005	Italy	Pakistan	109
+2005	Italy	Palestinian	60
+2005	Italy	Romania	73
+2005	Italy	Russian Federation	237
+2005	Italy	Rwanda	131
+2005	Italy	Sudan	957
+2005	Italy	Sierra Leone	250
+2005	Italy	Somalia	814
+2005	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2475
+2005	Italy	Syrian Arab Rep.	47
+2005	Italy	Togo	483
+2005	Italy	Tunisia	67
+2005	Italy	Turkey	1473
 2005	Jordan	other	201
 2005	Jordan	Iraq	16964
 2005	Jordan	Russian Federation	102
@@ -10942,6 +11548,29 @@ year	target	source	amount
 2006	Dem. Rep. of the Congo	Rwanda	37348
 2006	Dem. Rep. of the Congo	Sudan	6184
 2006	Dem. Rep. of the Congo	Uganda	13904
+2006	Cyprus	other	155
+2006	Cyprus	Afghanistan	138
+2006	Cyprus	Armenia	278
+2006	Cyprus	Bangladesh	758
+2006	Cyprus	China	283
+2006	Cyprus	Cameroon	118
+2006	Cyprus	Dem. Rep. of the Congo	58
+2006	Cyprus	Egypt	225
+2006	Cyprus	Georgia	1196
+2006	Cyprus	Iran (Islamic Rep. of)	1096
+2006	Cyprus	Iraq	342
+2006	Cyprus	Jordan	169
+2006	Cyprus	Lebanon	243
+2006	Cyprus	Sri Lanka	706
+2006	Cyprus	Rep. of Moldova	168
+2006	Cyprus	Pakistan	1050
+2006	Cyprus	Palestinian	479
+2006	Cyprus	Russian Federation	781
+2006	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	46
+2006	Cyprus	Syrian Arab Rep.	2511
+2006	Cyprus	Turkey	271
+2006	Cyprus	Ukraine	884
+2006	Cyprus	Uzbekistan	90
 2006	Czech Rep.	other	657
 2006	Czech Rep.	Afghanistan	241
 2006	Czech Rep.	Armenia	142
@@ -11298,6 +11927,28 @@ year	target	source	amount
 2006	Croatia	other	1
 2006	Croatia	Bosnia and Herzegovina	2103
 2006	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	339
+2006	Hungary	other	559
+2006	Hungary	Afghanistan	2361
+2006	Hungary	Armenia	155
+2006	Hungary	China	85
+2006	Hungary	Cameroon	116
+2006	Hungary	Algeria	83
+2006	Hungary	Ethiopia	55
+2006	Hungary	Georgia	144
+2006	Hungary	Iran (Islamic Rep. of)	167
+2006	Hungary	Iraq	1252
+2006	Hungary	Nigeria	136
+2006	Hungary	Pakistan	68
+2006	Hungary	Palestinian	100
+2006	Hungary	Russian Federation	143
+2006	Hungary	Sudan	140
+2006	Hungary	Sierra Leone	81
+2006	Hungary	Somalia	186
+2006	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2447
+2006	Hungary	Syrian Arab Rep.	60
+2006	Hungary	Turkey	82
+2006	Hungary	Ukraine	57
+2006	Hungary	Viet Nam	109
 2006	India	other	83
 2006	India	Afghanistan	9609
 2006	India	China	77200
@@ -11318,6 +11969,44 @@ year	target	source	amount
 2006	Israel	Liberia	95
 2006	Israel	Sudan	270
 2006	Israel	Turkey	137
+2006	Italy	other	3762
+2006	Italy	Afghanistan	473
+2006	Italy	Angola	123
+2006	Italy	Albania	276
+2006	Italy	Armenia	45
+2006	Italy	Bangladesh	145
+2006	Italy	Bosnia and Herzegovina	52
+2006	Italy	C�te d'Ivoire	1012
+2006	Italy	Cameroon	248
+2006	Italy	Dem. Rep. of the Congo	496
+2006	Italy	Congo	554
+2006	Italy	Colombia	322
+2006	Italy	Algeria	56
+2006	Italy	Eritrea	5021
+2006	Italy	Ethiopia	1518
+2006	Italy	Georgia	41
+2006	Italy	Ghana	127
+2006	Italy	Iran (Islamic Rep. of)	553
+2006	Italy	Iraq	1371
+2006	Italy	Lebanon	54
+2006	Italy	Liberia	899
+2006	Italy	Sri Lanka	533
+2006	Italy	Rep. of Moldova	42
+2006	Italy	The former Yugoslav Republic of Macedonia	65
+2006	Italy	Nigeria	486
+2006	Italy	Pakistan	189
+2006	Italy	Palestinian	73
+2006	Italy	Romania	74
+2006	Italy	Russian Federation	262
+2006	Italy	Rwanda	99
+2006	Italy	Sudan	1277
+2006	Italy	Sierra Leone	283
+2006	Italy	Somalia	948
+2006	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2721
+2006	Italy	Syrian Arab Rep.	62
+2006	Italy	Togo	959
+2006	Italy	Tunisia	68
+2006	Italy	Turkey	1586
 2006	Jordan	other	147
 2006	Jordan	Iraq	518950
 2006	Jordan	Russian Federation	121
@@ -12072,6 +12761,34 @@ year	target	source	amount
 2007	Dem. Rep. of the Congo	Rwanda	29847
 2007	Dem. Rep. of the Congo	Sudan	2514
 2007	Dem. Rep. of the Congo	Uganda	13905
+2007	Cyprus	other	345
+2007	Cyprus	Afghanistan	113
+2007	Cyprus	Armenia	144
+2007	Cyprus	Bangladesh	559
+2007	Cyprus	China	333
+2007	Cyprus	Cameroon	155
+2007	Cyprus	Dem. Rep. of the Congo	56
+2007	Cyprus	Egypt	330
+2007	Cyprus	Georgia	904
+2007	Cyprus	Ghana	49
+2007	Cyprus	India	690
+2007	Cyprus	Iran (Islamic Rep. of)	1244
+2007	Cyprus	Iraq	475
+2007	Cyprus	Jordan	196
+2007	Cyprus	Lebanon	276
+2007	Cyprus	Sri Lanka	1023
+2007	Cyprus	Rep. of Moldova	97
+2007	Cyprus	Nigeria	208
+2007	Cyprus	Nepal	249
+2007	Cyprus	Pakistan	674
+2007	Cyprus	Philippines	87
+2007	Cyprus	Palestinian	1420
+2007	Cyprus	Russian Federation	371
+2007	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	61
+2007	Cyprus	Syrian Arab Rep.	2327
+2007	Cyprus	Turkey	185
+2007	Cyprus	Ukraine	425
+2007	Cyprus	Uzbekistan	90
 2007	Czech Rep.	other	671
 2007	Czech Rep.	Afghanistan	258
 2007	Czech Rep.	Armenia	140
@@ -12433,6 +13150,29 @@ year	target	source	amount
 2007	Croatia	other	30
 2007	Croatia	Bosnia and Herzegovina	1336
 2007	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	330
+2007	Hungary	other	637
+2007	Hungary	Afghanistan	2312
+2007	Hungary	Armenia	150
+2007	Hungary	China	231
+2007	Hungary	Cameroon	107
+2007	Hungary	Cuba	47
+2007	Hungary	Algeria	83
+2007	Hungary	Ethiopia	60
+2007	Hungary	Georgia	104
+2007	Hungary	Iran (Islamic Rep. of)	167
+2007	Hungary	Iraq	1305
+2007	Hungary	Nigeria	144
+2007	Hungary	Pakistan	84
+2007	Hungary	Palestinian	126
+2007	Hungary	Russian Federation	145
+2007	Hungary	Sudan	144
+2007	Hungary	Sierra Leone	81
+2007	Hungary	Somalia	273
+2007	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	2829
+2007	Hungary	Syrian Arab Rep.	68
+2007	Hungary	Turkey	91
+2007	Hungary	Ukraine	51
+2007	Hungary	Viet Nam	457
 2007	India	other	86
 2007	India	Afghanistan	9701
 2007	India	China	77200
@@ -12459,6 +13199,50 @@ year	target	source	amount
 2007	Israel	Nigeria	544
 2007	Israel	Sudan	1967
 2007	Israel	Turkey	235
+2007	Italy	other	5319
+2007	Italy	Afghanistan	1138
+2007	Italy	Angola	128
+2007	Italy	Albania	234
+2007	Italy	Armenia	66
+2007	Italy	Burkina Faso	87
+2007	Italy	Bangladesh	434
+2007	Italy	Bosnia and Herzegovina	64
+2007	Italy	C�te d'Ivoire	1896
+2007	Italy	Cameroon	347
+2007	Italy	Dem. Rep. of the Congo	504
+2007	Italy	Congo	641
+2007	Italy	Colombia	388
+2007	Italy	Algeria	55
+2007	Italy	Eritrea	7404
+2007	Italy	Ethiopia	1955
+2007	Italy	Georgia	55
+2007	Italy	Ghana	307
+2007	Italy	Guinea	184
+2007	Italy	Gambia	81
+2007	Italy	India	50
+2007	Italy	Iran (Islamic Rep. of)	580
+2007	Italy	Iraq	1503
+2007	Italy	Lebanon	129
+2007	Italy	Liberia	1313
+2007	Italy	Sri Lanka	786
+2007	Italy	Rep. of Moldova	90
+2007	Italy	The former Yugoslav Republic of Macedonia	207
+2007	Italy	Mali	44
+2007	Italy	Nigeria	1051
+2007	Italy	Pakistan	409
+2007	Italy	Palestinian	90
+2007	Italy	Romania	74
+2007	Italy	Russian Federation	297
+2007	Italy	Rwanda	83
+2007	Italy	Sudan	1788
+2007	Italy	Sierra Leone	349
+2007	Italy	Somalia	1701
+2007	Italy	Serbia and Kosovo (S/RES/1244 (1999))	4304
+2007	Italy	Syrian Arab Rep.	84
+2007	Italy	Togo	1236
+2007	Italy	Tunisia	71
+2007	Italy	Turkey	1980
+2007	Italy	Ukraine	62
 2007	Jordan	other	169
 2007	Jordan	Iraq	500000
 2007	Jordan	Russian Federation	139
@@ -13223,6 +14007,33 @@ year	target	source	amount
 2008	Dem. Rep. of the Congo	Congo	719
 2008	Dem. Rep. of the Congo	Rwanda	22645
 2008	Dem. Rep. of the Congo	Sudan	2511
+2008	Cyprus	other	379
+2008	Cyprus	Afghanistan	81
+2008	Cyprus	Armenia	57
+2008	Cyprus	Bangladesh	92
+2008	Cyprus	China	222
+2008	Cyprus	Cameroon	118
+2008	Cyprus	Dem. Rep. of the Congo	51
+2008	Cyprus	Egypt	366
+2008	Cyprus	Georgia	572
+2008	Cyprus	India	466
+2008	Cyprus	Iran (Islamic Rep. of)	1287
+2008	Cyprus	Iraq	618
+2008	Cyprus	Jordan	145
+2008	Cyprus	Lebanon	245
+2008	Cyprus	Sri Lanka	560
+2008	Cyprus	Rep. of Moldova	59
+2008	Cyprus	Nigeria	188
+2008	Cyprus	Nepal	183
+2008	Cyprus	Pakistan	209
+2008	Cyprus	Philippines	97
+2008	Cyprus	Palestinian	1600
+2008	Cyprus	Russian Federation	197
+2008	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	63
+2008	Cyprus	Syrian Arab Rep.	1080
+2008	Cyprus	Turkey	172
+2008	Cyprus	Ukraine	295
+2008	Cyprus	Uzbekistan	77
 2008	Czech Rep.	other	671
 2008	Czech Rep.	Afghanistan	246
 2008	Czech Rep.	Armenia	131
@@ -13572,6 +14383,29 @@ year	target	source	amount
 2008	Croatia	other	53
 2008	Croatia	Bosnia and Herzegovina	1295
 2008	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	311
+2008	Hungary	other	676
+2008	Hungary	Afghanistan	2164
+2008	Hungary	Armenia	155
+2008	Hungary	China	255
+2008	Hungary	Cameroon	82
+2008	Hungary	Cuba	61
+2008	Hungary	Algeria	73
+2008	Hungary	Ethiopia	61
+2008	Hungary	Georgia	160
+2008	Hungary	Iran (Islamic Rep. of)	167
+2008	Hungary	Iraq	1296
+2008	Hungary	Nigeria	151
+2008	Hungary	Pakistan	108
+2008	Hungary	Palestinian	126
+2008	Hungary	Russian Federation	146
+2008	Hungary	Sudan	133
+2008	Hungary	Sierra Leone	77
+2008	Hungary	Somalia	444
+2008	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	3225
+2008	Hungary	Syrian Arab Rep.	75
+2008	Hungary	Turkey	112
+2008	Hungary	Ukraine	52
+2008	Hungary	Viet Nam	472
 2008	India	other	111
 2008	India	Afghanistan	10102
 2008	India	China	100003
@@ -13600,6 +14434,55 @@ year	target	source	amount
 2008	Israel	Philippines	58
 2008	Israel	Sudan	4328
 2008	Israel	Turkey	270
+2008	Italy	other	3839
+2008	Italy	Afghanistan	2315
+2008	Italy	Angola	135
+2008	Italy	Albania	202
+2008	Italy	Armenia	70
+2008	Italy	Burkina Faso	185
+2008	Italy	Bangladesh	493
+2008	Italy	Bosnia and Herzegovina	70
+2008	Italy	C�te d'Ivoire	2454
+2008	Italy	Cameroon	421
+2008	Italy	Dem. Rep. of the Congo	479
+2008	Italy	Congo	654
+2008	Italy	Colombia	399
+2008	Italy	Cuba	54
+2008	Italy	Algeria	49
+2008	Italy	Eritrea	9033
+2008	Italy	Ethiopia	2148
+2008	Italy	Georgia	65
+2008	Italy	Ghana	440
+2008	Italy	Guinea	329
+2008	Italy	Gambia	123
+2008	Italy	India	53
+2008	Italy	Iran (Islamic Rep. of)	617
+2008	Italy	Iraq	1614
+2008	Italy	Lebanon	166
+2008	Italy	Liberia	1329
+2008	Italy	Sri Lanka	861
+2008	Italy	Morocco	41
+2008	Italy	Rep. of Moldova	98
+2008	Italy	The former Yugoslav Republic of Macedonia	209
+2008	Italy	Mali	75
+2008	Italy	Mauritania	44
+2008	Italy	Nigeria	1454
+2008	Italy	Pakistan	555
+2008	Italy	Palestinian	110
+2008	Italy	Romania	73
+2008	Italy	Russian Federation	300
+2008	Italy	Rwanda	67
+2008	Italy	Sudan	2041
+2008	Italy	Senegal	64
+2008	Italy	Sierra Leone	355
+2008	Italy	Somalia	5251
+2008	Italy	Serbia and Kosovo (S/RES/1244 (1999))	4244
+2008	Italy	Syrian Arab Rep.	110
+2008	Italy	Chad	44
+2008	Italy	Togo	1387
+2008	Italy	Tunisia	68
+2008	Italy	Turkey	1811
+2008	Italy	Ukraine	63
 2008	Jordan	other	183
 2008	Jordan	Egypt	84
 2008	Jordan	Iraq	500000
@@ -14357,6 +15240,33 @@ year	target	source	amount
 2009	Dem. Rep. of the Congo	Congo	712
 2009	Dem. Rep. of the Congo	Rwanda	80559
 2009	Dem. Rep. of the Congo	Sudan	2509
+2009	Cyprus	other	297
+2009	Cyprus	Afghanistan	52
+2009	Cyprus	Armenia	58
+2009	Cyprus	Bangladesh	73
+2009	Cyprus	China	136
+2009	Cyprus	Cameroon	143
+2009	Cyprus	Dem. Rep. of the Congo	42
+2009	Cyprus	Egypt	290
+2009	Cyprus	Georgia	432
+2009	Cyprus	Ghana	49
+2009	Cyprus	India	255
+2009	Cyprus	Iran (Islamic Rep. of)	992
+2009	Cyprus	Iraq	777
+2009	Cyprus	Jordan	120
+2009	Cyprus	Lebanon	115
+2009	Cyprus	Sri Lanka	182
+2009	Cyprus	Mongolia	44
+2009	Cyprus	Nigeria	87
+2009	Cyprus	Pakistan	108
+2009	Cyprus	Philippines	104
+2009	Cyprus	Palestinian	2476
+2009	Cyprus	Russian Federation	125
+2009	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	68
+2009	Cyprus	Syrian Arab Rep.	499
+2009	Cyprus	Turkey	220
+2009	Cyprus	Ukraine	86
+2009	Cyprus	Viet Nam	73
 2009	Czech Rep.	other	605
 2009	Czech Rep.	Afghanistan	231
 2009	Czech Rep.	Armenia	127
@@ -14695,6 +15605,28 @@ year	target	source	amount
 2009	Croatia	other	44
 2009	Croatia	Bosnia and Herzegovina	957
 2009	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	276
+2009	Hungary	other	576
+2009	Hungary	Afghanistan	2105
+2009	Hungary	Armenia	143
+2009	Hungary	China	51
+2009	Hungary	Cameroon	59
+2009	Hungary	Cuba	64
+2009	Hungary	Algeria	45
+2009	Hungary	Ethiopia	57
+2009	Hungary	Georgia	125
+2009	Hungary	Iran (Islamic Rep. of)	200
+2009	Hungary	Iraq	1174
+2009	Hungary	Nigeria	113
+2009	Hungary	Pakistan	85
+2009	Hungary	Palestinian	133
+2009	Hungary	Russian Federation	145
+2009	Hungary	Sudan	125
+2009	Hungary	Sierra Leone	60
+2009	Hungary	Somalia	416
+2009	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	830
+2009	Hungary	Syrian Arab Rep.	46
+2009	Hungary	Turkey	85
+2009	Hungary	Ukraine	54
 2009	India	other	119
 2009	India	Afghanistan	9863
 2009	India	China	100003
@@ -14720,6 +15652,60 @@ year	target	source	amount
 2009	Israel	Philippines	91
 2009	Israel	Sudan	5502
 2009	Israel	Turkey	222
+2009	Italy	other	8205
+2009	Italy	Afghanistan	3039
+2009	Italy	Angola	126
+2009	Italy	Albania	205
+2009	Italy	Armenia	73
+2009	Italy	Azerbaijan	41
+2009	Italy	Benin	41
+2009	Italy	Burkina Faso	284
+2009	Italy	Bangladesh	634
+2009	Italy	Bosnia and Herzegovina	95
+2009	Italy	China	62
+2009	Italy	C�te d'Ivoire	2900
+2009	Italy	Cameroon	509
+2009	Italy	Dem. Rep. of the Congo	482
+2009	Italy	Congo	684
+2009	Italy	Colombia	411
+2009	Italy	Cuba	84
+2009	Italy	Algeria	60
+2009	Italy	Eritrea	10377
+2009	Italy	Ethiopia	2207
+2009	Italy	Georgia	89
+2009	Italy	Ghana	602
+2009	Italy	Guinea	473
+2009	Italy	Gambia	207
+2009	Italy	India	83
+2009	Italy	Iran (Islamic Rep. of)	694
+2009	Italy	Iraq	1843
+2009	Italy	Kenya	54
+2009	Italy	Lebanon	194
+2009	Italy	Liberia	1359
+2009	Italy	Sri Lanka	974
+2009	Italy	Morocco	76
+2009	Italy	Rep. of Moldova	110
+2009	Italy	The former Yugoslav Republic of Macedonia	209
+2009	Italy	Mali	110
+2009	Italy	Mauritania	75
+2009	Italy	Niger	65
+2009	Italy	Nigeria	2154
+2009	Italy	Pakistan	920
+2009	Italy	Palestinian	266
+2009	Italy	Romania	73
+2009	Italy	Russian Federation	309
+2009	Italy	Rwanda	47
+2009	Italy	Sudan	2159
+2009	Italy	Senegal	109
+2009	Italy	Sierra Leone	374
+2009	Italy	Somalia	7747
+2009	Italy	Serbia and Kosovo (S/RES/1244 (1999))	3530
+2009	Italy	Syrian Arab Rep.	190
+2009	Italy	Chad	60
+2009	Italy	Togo	1483
+2009	Italy	Tunisia	81
+2009	Italy	Turkey	2016
+2009	Italy	Ukraine	76
 2009	Jordan	other	229
 2009	Jordan	Egypt	101
 2009	Jordan	Iraq	450000
@@ -15489,6 +16475,33 @@ year	target	source	amount
 2010	Dem. Rep. of the Congo	Congo	777
 2010	Dem. Rep. of the Congo	Rwanda	69988
 2010	Dem. Rep. of the Congo	Sudan	2506
+2010	Cyprus	other	389
+2010	Cyprus	Afghanistan	119
+2010	Cyprus	Armenia	61
+2010	Cyprus	Bangladesh	60
+2010	Cyprus	China	52
+2010	Cyprus	Cameroon	184
+2010	Cyprus	Dem. Rep. of the Congo	44
+2010	Cyprus	Egypt	203
+2010	Cyprus	Georgia	121
+2010	Cyprus	Ghana	56
+2010	Cyprus	India	129
+2010	Cyprus	Iran (Islamic Rep. of)	977
+2010	Cyprus	Iraq	1059
+2010	Cyprus	Jordan	146
+2010	Cyprus	Lebanon	131
+2010	Cyprus	Sri Lanka	197
+2010	Cyprus	Nigeria	95
+2010	Cyprus	Nepal	77
+2010	Cyprus	Pakistan	97
+2010	Cyprus	Philippines	44
+2010	Cyprus	Palestinian	3415
+2010	Cyprus	Russian Federation	139
+2010	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	132
+2010	Cyprus	Syrian Arab Rep.	367
+2010	Cyprus	Turkey	325
+2010	Cyprus	Ukraine	98
+2010	Cyprus	Viet Nam	73
 2010	Czech Rep.	other	602
 2010	Czech Rep.	Afghanistan	233
 2010	Czech Rep.	Armenia	110
@@ -15867,6 +16880,27 @@ year	target	source	amount
 2010	Croatia	other	103
 2010	Croatia	Bosnia and Herzegovina	671
 2010	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	243
+2010	Hungary	other	622
+2010	Hungary	Afghanistan	1821
+2010	Hungary	Armenia	111
+2010	Hungary	China	46
+2010	Hungary	Cameroon	46
+2010	Hungary	Cuba	63
+2010	Hungary	Ethiopia	48
+2010	Hungary	Georgia	108
+2010	Hungary	Iran (Islamic Rep. of)	177
+2010	Hungary	Iraq	1101
+2010	Hungary	Nigeria	97
+2010	Hungary	Pakistan	76
+2010	Hungary	Palestinian	138
+2010	Hungary	Russian Federation	133
+2010	Hungary	Sudan	117
+2010	Hungary	Sierra Leone	52
+2010	Hungary	Somalia	432
+2010	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	408
+2010	Hungary	Syrian Arab Rep.	47
+2010	Hungary	Turkey	87
+2010	Hungary	Ukraine	51
 2010	India	other	55
 2010	India	Afghanistan	9317
 2010	India	China	100003
@@ -15896,6 +16930,59 @@ year	target	source	amount
 2010	Israel	Philippines	168
 2010	Israel	Sudan	8137
 2010	Israel	Turkey	243
+2010	Italy	other	3631
+2010	Italy	Afghanistan	3969
+2010	Italy	Angola	96
+2010	Italy	Albania	188
+2010	Italy	Armenia	89
+2010	Italy	Azerbaijan	47
+2010	Italy	Benin	44
+2010	Italy	Burkina Faso	327
+2010	Italy	Bangladesh	763
+2010	Italy	Bosnia and Herzegovina	393
+2010	Italy	China	80
+2010	Italy	C�te d'Ivoire	3085
+2010	Italy	Cameroon	536
+2010	Italy	Dem. Rep. of the Congo	474
+2010	Italy	Congo	630
+2010	Italy	Colombia	445
+2010	Italy	Cuba	90
+2010	Italy	Algeria	88
+2010	Italy	Eritrea	11011
+2010	Italy	Ethiopia	2191
+2010	Italy	Georgia	125
+2010	Italy	Ghana	740
+2010	Italy	Guinea	571
+2010	Italy	Gambia	252
+2010	Italy	India	108
+2010	Italy	Iran (Islamic Rep. of)	874
+2010	Italy	Iraq	2143
+2010	Italy	Kenya	84
+2010	Italy	Lebanon	219
+2010	Italy	Liberia	1378
+2010	Italy	Sri Lanka	1031
+2010	Italy	Morocco	103
+2010	Italy	Rep. of Moldova	112
+2010	Italy	The former Yugoslav Republic of Macedonia	211
+2010	Italy	Mali	153
+2010	Italy	Mauritania	100
+2010	Italy	Niger	72
+2010	Italy	Nigeria	3031
+2010	Italy	Pakistan	1582
+2010	Italy	Palestinian	404
+2010	Italy	Romania	71
+2010	Italy	Russian Federation	268
+2010	Italy	Sudan	2164
+2010	Italy	Senegal	202
+2010	Italy	Sierra Leone	375
+2010	Italy	Somalia	7924
+2010	Italy	Serbia and Kosovo (S/RES/1244 (1999))	3669
+2010	Italy	Syrian Arab Rep.	240
+2010	Italy	Chad	62
+2010	Italy	Togo	1518
+2010	Italy	Tunisia	96
+2010	Italy	Turkey	2337
+2010	Italy	Ukraine	77
 2010	Jordan	other	193
 2010	Jordan	Afghanistan	52
 2010	Jordan	Egypt	96
@@ -16695,6 +17782,29 @@ year	target	source	amount
 2011	Dem. Rep. of the Congo	Rwanda	61737
 2011	Dem. Rep. of the Congo	Sudan	2506
 2011	Dem. Rep. of the Congo	Somalia	65
+2011	Cyprus	other	364
+2011	Cyprus	Afghanistan	120
+2011	Cyprus	Armenia	46
+2011	Cyprus	Bangladesh	75
+2011	Cyprus	Cameroon	82
+2011	Cyprus	Dem. Rep. of the Congo	41
+2011	Cyprus	Egypt	244
+2011	Cyprus	Georgia	98
+2011	Cyprus	India	55
+2011	Cyprus	Iran (Islamic Rep. of)	645
+2011	Cyprus	Iraq	862
+2011	Cyprus	Jordan	82
+2011	Cyprus	Lebanon	101
+2011	Cyprus	Sri Lanka	131
+2011	Cyprus	Nepal	47
+2011	Cyprus	Pakistan	100
+2011	Cyprus	Palestinian	2278
+2011	Cyprus	Russian Federation	128
+2011	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	131
+2011	Cyprus	Syrian Arab Rep.	482
+2011	Cyprus	Turkey	299
+2011	Cyprus	Ukraine	88
+2011	Cyprus	Viet Nam	63
 2011	Czech Rep.	other	1454
 2011	Czech Rep.	Afghanistan	224
 2011	Czech Rep.	Armenia	79
@@ -17039,6 +18149,24 @@ year	target	source	amount
 2011	Croatia	Afghanistan	151
 2011	Croatia	Bosnia and Herzegovina	557
 2011	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	231
+2011	Hungary	other	981
+2011	Hungary	Afghanistan	1697
+2011	Hungary	Armenia	96
+2011	Hungary	Cameroon	41
+2011	Hungary	Cuba	61
+2011	Hungary	Georgia	87
+2011	Hungary	Iran (Islamic Rep. of)	167
+2011	Hungary	Iraq	998
+2011	Hungary	Nigeria	86
+2011	Hungary	Pakistan	68
+2011	Hungary	Palestinian	119
+2011	Hungary	Russian Federation	115
+2011	Hungary	Sudan	113
+2011	Hungary	Somalia	406
+2011	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	272
+2011	Hungary	Syrian Arab Rep.	42
+2011	Hungary	Turkey	73
+2011	Hungary	Ukraine	44
 2011	India	other	119
 2011	India	Afghanistan	9780
 2011	India	China	100003
@@ -17063,6 +18191,60 @@ year	target	source	amount
 2011	Israel	Myanmar	64
 2011	Israel	Nigeria	1505
 2011	Israel	Sudan	9009
+2011	Italy	other	16911
+2011	Italy	Afghanistan	4291
+2011	Italy	Angola	74
+2011	Italy	Albania	127
+2011	Italy	Armenia	83
+2011	Italy	Azerbaijan	58
+2011	Italy	Burkina Faso	326
+2011	Italy	Bangladesh	670
+2011	Italy	Bosnia and Herzegovina	75
+2011	Italy	China	72
+2011	Italy	C�te d'Ivoire	3240
+2011	Italy	Cameroon	516
+2011	Italy	Dem. Rep. of the Congo	404
+2011	Italy	Congo	553
+2011	Italy	Colombia	387
+2011	Italy	Cuba	90
+2011	Italy	Algeria	56
+2011	Italy	Egypt	70
+2011	Italy	Eritrea	11206
+2011	Italy	Ethiopia	2212
+2011	Italy	Georgia	89
+2011	Italy	Ghana	658
+2011	Italy	Guinea	571
+2011	Italy	Gambia	222
+2011	Italy	India	90
+2011	Italy	Iran (Islamic Rep. of)	840
+2011	Italy	Iraq	1853
+2011	Italy	Kenya	71
+2011	Italy	Lebanon	210
+2011	Italy	Liberia	1358
+2011	Italy	Libya	75
+2011	Italy	Sri Lanka	1006
+2011	Italy	Morocco	95
+2011	Italy	Rep. of Moldova	112
+2011	Italy	The former Yugoslav Republic of Macedonia	191
+2011	Italy	Mali	136
+2011	Italy	Mauritania	109
+2011	Italy	Niger	79
+2011	Italy	Nigeria	2369
+2011	Italy	Pakistan	1536
+2011	Italy	Palestinian	402
+2011	Italy	Romania	42
+2011	Italy	Russian Federation	151
+2011	Italy	Sudan	2324
+2011	Italy	Senegal	192
+2011	Italy	Sierra Leone	320
+2011	Italy	Somalia	8497
+2011	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2761
+2011	Italy	Syrian Arab Rep.	262
+2011	Italy	Chad	97
+2011	Italy	Togo	1494
+2011	Italy	Tunisia	100
+2011	Italy	Turkey	1792
+2011	Italy	Ukraine	60
 2011	Jordan	other	258
 2011	Jordan	Egypt	219
 2011	Jordan	Iraq	451465
@@ -17875,6 +19057,23 @@ year	target	source	amount
 2012	Dem. Rep. of the Congo	Liberia	50
 2012	Dem. Rep. of the Congo	Rwanda	51484
 2012	Dem. Rep. of the Congo	Sudan	2506
+2012	Cyprus	other	383
+2012	Cyprus	Afghanistan	55
+2012	Cyprus	Bangladesh	92
+2012	Cyprus	Dem. Rep. of the Congo	47
+2012	Cyprus	Egypt	214
+2012	Cyprus	Georgia	91
+2012	Cyprus	Iran (Islamic Rep. of)	551
+2012	Cyprus	Iraq	910
+2012	Cyprus	Jordan	43
+2012	Cyprus	Lebanon	53
+2012	Cyprus	Sri Lanka	71
+2012	Cyprus	Palestinian	2238
+2012	Cyprus	Russian Federation	72
+2012	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	78
+2012	Cyprus	Syrian Arab Rep.	1085
+2012	Cyprus	Turkey	236
+2012	Cyprus	Viet Nam	48
 2012	Czech Rep.	other	651
 2012	Czech Rep.	Afghanistan	255
 2012	Czech Rep.	Armenia	82
@@ -18245,6 +19444,23 @@ year	target	source	amount
 2012	Croatia	Somalia	61
 2012	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	212
 2012	Croatia	Syrian Arab Rep.	52
+2012	Hungary	other	1055
+2012	Hungary	Afghanistan	1131
+2012	Hungary	Armenia	88
+2012	Hungary	Cuba	61
+2012	Hungary	Georgia	88
+2012	Hungary	Iran (Islamic Rep. of)	145
+2012	Hungary	Iraq	563
+2012	Hungary	Nigeria	60
+2012	Hungary	Pakistan	77
+2012	Hungary	Palestinian	117
+2012	Hungary	Russian Federation	103
+2012	Hungary	Sudan	64
+2012	Hungary	Somalia	431
+2012	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	266
+2012	Hungary	Syrian Arab Rep.	86
+2012	Hungary	Turkey	64
+2012	Hungary	Ukraine	41
 2012	India	other	68
 2012	India	Afghanistan	10204
 2012	India	China	100003
@@ -18267,6 +19483,64 @@ year	target	source	amount
 2012	Israel	Ethiopia	83
 2012	Israel	Sudan	10772
 2012	Israel	South Sudan	113
+2012	Italy	other	3586
+2012	Italy	Afghanistan	6220
+2012	Italy	Angola	54
+2012	Italy	Albania	177
+2012	Italy	Armenia	155
+2012	Italy	Azerbaijan	79
+2012	Italy	Benin	62
+2012	Italy	Burkina Faso	493
+2012	Italy	Bangladesh	1136
+2012	Italy	Bosnia and Herzegovina	421
+2012	Italy	China	93
+2012	Italy	C�te d'Ivoire	4403
+2012	Italy	Cameroon	596
+2012	Italy	Dem. Rep. of the Congo	432
+2012	Italy	Congo	572
+2012	Italy	Colombia	402
+2012	Italy	Cuba	117
+2012	Italy	Algeria	118
+2012	Italy	Egypt	514
+2012	Italy	Eritrea	11962
+2012	Italy	Ethiopia	2296
+2012	Italy	Georgia	134
+2012	Italy	Ghana	1479
+2012	Italy	Guinea	808
+2012	Italy	Gambia	545
+2012	Italy	Guinea-Bissau	71
+2012	Italy	India	136
+2012	Italy	Iran (Islamic Rep. of)	1073
+2012	Italy	Iraq	2300
+2012	Italy	Kenya	94
+2012	Italy	Lebanon	295
+2012	Italy	Liberia	1397
+2012	Italy	Libya	252
+2012	Italy	Sri Lanka	651
+2012	Italy	Morocco	227
+2012	Italy	Rep. of Moldova	113
+2012	Italy	The former Yugoslav Republic of Macedonia	207
+2012	Italy	Mali	2711
+2012	Italy	Montenegro	61
+2012	Italy	Mauritania	210
+2012	Italy	Niger	211
+2012	Italy	Nigeria	4646
+2012	Italy	Pakistan	4264
+2012	Italy	Palestinian	514
+2012	Italy	Russian Federation	166
+2012	Italy	Sudan	2681
+2012	Italy	Senegal	746
+2012	Italy	Sierra Leone	306
+2012	Italy	El Salvador	64
+2012	Italy	Somalia	9778
+2012	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2793
+2012	Italy	South Sudan	55
+2012	Italy	Syrian Arab Rep.	952
+2012	Italy	Chad	321
+2012	Italy	Togo	1577
+2012	Italy	Tunisia	1157
+2012	Italy	Turkey	2153
+2012	Italy	Ukraine	73
 2012	Jordan	other	211
 2012	Jordan	Egypt	137
 2012	Jordan	Iraq	64621
@@ -19085,6 +20359,22 @@ year	target	source	amount
 2013	Dem. Rep. of the Congo	Sudan	2565
 2013	Dem. Rep. of the Congo	Somalia	118
 2013	Dem. Rep. of the Congo	Uganda	2687
+2013	Cyprus	other	452
+2013	Cyprus	Bangladesh	49
+2013	Cyprus	Cameroon	43
+2013	Cyprus	Egypt	275
+2013	Cyprus	Georgia	89
+2013	Cyprus	Iran (Islamic Rep. of)	507
+2013	Cyprus	Iraq	1118
+2013	Cyprus	Lebanon	47
+2013	Cyprus	Sri Lanka	60
+2013	Cyprus	Pakistan	63
+2013	Cyprus	Palestinian	1824
+2013	Cyprus	Russian Federation	68
+2013	Cyprus	Somalia	58
+2013	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	69
+2013	Cyprus	Syrian Arab Rep.	1635
+2013	Cyprus	Turkey	177
 2013	Czech Rep.	other	635
 2013	Czech Rep.	Afghanistan	248
 2013	Czech Rep.	Armenia	85
@@ -19481,6 +20771,22 @@ year	target	source	amount
 2013	Croatia	Bosnia and Herzegovina	392
 2013	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	203
 2013	Croatia	Syrian Arab Rep.	59
+2013	Hungary	other	789
+2013	Hungary	Afghanistan	1446
+2013	Hungary	Bangladesh	50
+2013	Hungary	Cuba	54
+2013	Hungary	Georgia	50
+2013	Hungary	Ghana	58
+2013	Hungary	Iran (Islamic Rep. of)	79
+2013	Hungary	Iraq	235
+2013	Hungary	Nigeria	102
+2013	Hungary	Pakistan	201
+2013	Hungary	Palestinian	125
+2013	Hungary	Sudan	74
+2013	Hungary	Somalia	488
+2013	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	201
+2013	Hungary	Syrian Arab Rep.	325
+2013	Hungary	Turkey	49
 2013	India	other	156
 2013	India	Afghanistan	11377
 2013	India	China	100003
@@ -19503,6 +20809,64 @@ year	target	source	amount
 2013	Israel	Ethiopia	86
 2013	Israel	Sudan	12542
 2013	Israel	South Sudan	100
+2013	Italy	other	1571
+2013	Italy	Afghanistan	7681
+2013	Italy	Angola	49
+2013	Italy	Albania	235
+2013	Italy	Armenia	211
+2013	Italy	Azerbaijan	70
+2013	Italy	Benin	63
+2013	Italy	Burkina Faso	541
+2013	Italy	Bangladesh	1235
+2013	Italy	Bosnia and Herzegovina	329
+2013	Italy	China	91
+2013	Italy	C�te d'Ivoire	4252
+2013	Italy	Cameroon	614
+2013	Italy	Dem. Rep. of the Congo	430
+2013	Italy	Congo	542
+2013	Italy	Colombia	427
+2013	Italy	Cuba	137
+2013	Italy	Algeria	116
+2013	Italy	Egypt	1069
+2013	Italy	Eritrea	13825
+2013	Italy	Ethiopia	2438
+2013	Italy	Georgia	124
+2013	Italy	Ghana	1751
+2013	Italy	Guinea	879
+2013	Italy	Gambia	1873
+2013	Italy	Guinea-Bissau	150
+2013	Italy	India	111
+2013	Italy	Iran (Islamic Rep. of)	1340
+2013	Italy	Iraq	2495
+2013	Italy	Kenya	97
+2013	Italy	Lebanon	310
+2013	Italy	Liberia	1387
+2013	Italy	Libya	209
+2013	Italy	Sri Lanka	658
+2013	Italy	Morocco	246
+2013	Italy	Rep. of Moldova	112
+2013	Italy	The former Yugoslav Republic of Macedonia	200
+2013	Italy	Mali	4518
+2013	Italy	Montenegro	41
+2013	Italy	Mauritania	225
+2013	Italy	Niger	236
+2013	Italy	Nigeria	6124
+2013	Italy	Pakistan	5094
+2013	Italy	Palestinian	607
+2013	Italy	Russian Federation	172
+2013	Italy	Sudan	2684
+2013	Italy	Senegal	1303
+2013	Italy	Sierra Leone	334
+2013	Italy	El Salvador	85
+2013	Italy	Somalia	12199
+2013	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2782
+2013	Italy	South Sudan	55
+2013	Italy	Syrian Arab Rep.	1118
+2013	Italy	Chad	309
+2013	Italy	Togo	1555
+2013	Italy	Tunisia	386
+2013	Italy	Turkey	2141
+2013	Italy	Ukraine	81
 2013	Jordan	other	304
 2013	Jordan	Egypt	147
 2013	Jordan	Iraq	57944
@@ -20336,6 +21700,23 @@ year	target	source	amount
 2014	Dem. Rep. of the Congo	Somalia	119
 2014	Dem. Rep. of the Congo	South Sudan	1790
 2014	Dem. Rep. of the Congo	Uganda	1213
+2014	Cyprus	other	362
+2014	Cyprus	Egypt	297
+2014	Cyprus	Georgia	91
+2014	Cyprus	Iran (Islamic Rep. of)	534
+2014	Cyprus	Iraq	1075
+2014	Cyprus	Jordan	45
+2014	Cyprus	Lebanon	49
+2014	Cyprus	Sri Lanka	76
+2014	Cyprus	Pakistan	42
+2014	Cyprus	Palestinian	1790
+2014	Cyprus	Russian Federation	83
+2014	Cyprus	Somalia	67
+2014	Cyprus	Serbia and Kosovo (S/RES/1244 (1999))	59
+2014	Cyprus	Syrian Arab Rep.	2560
+2014	Cyprus	Turkey	207
+2014	Cyprus	Ukraine	118
+2014	Cyprus	Viet Nam	43
 2014	Czech Rep.	other	644
 2014	Czech Rep.	Afghanistan	235
 2014	Czech Rep.	Armenia	86
@@ -20725,6 +22106,23 @@ year	target	source	amount
 2014	Croatia	other	157
 2014	Croatia	Bosnia and Herzegovina	396
 2014	Croatia	Serbia and Kosovo (S/RES/1244 (1999))	216
+2014	Hungary	other	936
+2014	Hungary	Afghanistan	3442
+2014	Hungary	Bangladesh	78
+2014	Hungary	Comoros	49
+2014	Hungary	Cuba	140
+2014	Hungary	Eritrea	51
+2014	Hungary	Georgia	54
+2014	Hungary	Iran (Islamic Rep. of)	151
+2014	Hungary	Iraq	392
+2014	Hungary	Nigeria	85
+2014	Hungary	Pakistan	144
+2014	Hungary	Palestinian	146
+2014	Hungary	Sudan	46
+2014	Hungary	Somalia	529
+2014	Hungary	Serbia and Kosovo (S/RES/1244 (1999))	10993
+2014	Hungary	Syrian Arab Rep.	1157
+2014	Hungary	Turkey	55
 2014	India	other	100
 2014	India	Afghanistan	11700
 2014	India	China	109018
@@ -20748,6 +22146,68 @@ year	target	source	amount
 2014	Israel	Ethiopia	86
 2014	Israel	Sudan	6588
 2014	Israel	South Sudan	106
+2014	Italy	other	1977
+2014	Italy	Afghanistan	10769
+2014	Italy	Albania	327
+2014	Italy	Armenia	277
+2014	Italy	Azerbaijan	69
+2014	Italy	Benin	131
+2014	Italy	Burkina Faso	814
+2014	Italy	Bangladesh	5375
+2014	Italy	Bosnia and Herzegovina	477
+2014	Italy	Brazil	41
+2014	Italy	Central African Rep.	56
+2014	Italy	China	154
+2014	Italy	C�te d'Ivoire	5708
+2014	Italy	Cameroon	762
+2014	Italy	Dem. Rep. of the Congo	490
+2014	Italy	Congo	543
+2014	Italy	Colombia	501
+2014	Italy	Cuba	165
+2014	Italy	Algeria	178
+2014	Italy	Egypt	1651
+2014	Italy	Eritrea	13671
+2014	Italy	Ethiopia	2412
+2014	Italy	Georgia	197
+2014	Italy	Ghana	3471
+2014	Italy	Guinea	1675
+2014	Italy	Gambia	8059
+2014	Italy	Guinea-Bissau	466
+2014	Italy	India	171
+2014	Italy	Iran (Islamic Rep. of)	1641
+2014	Italy	Iraq	3226
+2014	Italy	Kenya	112
+2014	Italy	Lebanon	364
+2014	Italy	Liberia	807
+2014	Italy	Libya	307
+2014	Italy	Sri Lanka	723
+2014	Italy	Morocco	408
+2014	Italy	Rep. of Moldova	125
+2014	Italy	The former Yugoslav Republic of Macedonia	206
+2014	Italy	Mali	12021
+2014	Italy	Montenegro	62
+2014	Italy	Mauritania	281
+2014	Italy	Niger	329
+2014	Italy	Nigeria	14059
+2014	Italy	Nepal	60
+2014	Italy	Pakistan	10830
+2014	Italy	Palestinian	753
+2014	Italy	Russian Federation	224
+2014	Italy	Sudan	2683
+2014	Italy	Senegal	4815
+2014	Italy	Sierra Leone	463
+2014	Italy	El Salvador	184
+2014	Italy	Somalia	12644
+2014	Italy	Serbia and Kosovo (S/RES/1244 (1999))	2815
+2014	Italy	South Sudan	57
+2014	Italy	Syrian Arab Rep.	1475
+2014	Italy	Chad	354
+2014	Italy	Togo	1682
+2014	Italy	Tunisia	644
+2014	Italy	Turkey	2500
+2014	Italy	Uganda	51
+2014	Italy	Ukraine	1792
+2014	Italy	Yemen	53
 2014	Jordan	other	374
 2014	Jordan	Egypt	273
 2014	Jordan	Eritrea	46
