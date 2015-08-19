@@ -39,8 +39,10 @@ barsHeight = 300px
     ol.top-ten
       list-style-type none
       li
+        position absolute
         clear left
         font-size 0.9em
+        transition top 0.8s
         span
           padding 2px 0px
         span.name
@@ -52,9 +54,9 @@ barsHeight = 300px
           font-weight 500
           display block
           float left
-          width 45px
+          width 75px
           text-align right
           padding-right 5px
-        &:nth-child(2n) span
+        &.odd span
           background #fa
 

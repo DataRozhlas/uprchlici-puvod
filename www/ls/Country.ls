@@ -18,6 +18,8 @@ class ig.Country
     for year in @years
       year.sort!
     @sources.sort (a, b) -> b.amount - a.amount
+    for source, index in @sources
+      source.index = index
 
 
 class Year
@@ -31,8 +33,8 @@ class Year
 
   sort: ->
     @sources.sort (a, b) ->
-      | a.isOther == "other" => 1
-      | b.isOther == "other" => -1
+      | a.isOther => 1
+      | b.isOther => -1
       | otherwise            => b.amount - a.amount
     previousAmount = 0
     for source in @sources

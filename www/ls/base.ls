@@ -16,5 +16,7 @@ container = d3.select ig.containers.base
 leftDisplayContainer = container.append \div
   ..attr \class \display
 new Tooltip!watchElements!
-new ig.Display leftDisplayContainer
+display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
+# <~ setTimeout _, 1000
+# display1.display countriesAssoc['Italy']

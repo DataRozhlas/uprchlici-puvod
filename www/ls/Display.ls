@@ -31,6 +31,7 @@ class ig.Display
       ..style \height -> "#{yScale it.amount}%"
       ..attr \data-tooltip -> "#{it.country}: #{ig.utils.formatNumber it.amount}"
     topTenSources = country.sources.slice 0, 10
+    lineHeight = 23
     @topTen.selectAll \li .data topTenSources, (.country)
       ..enter!append \li
         ..append \span
@@ -38,12 +39,14 @@ class ig.Display
           ..html (.country)
         ..append \span
           ..attr \class \amount
-          ..html -> ig.utils.formatNumber it.amount
         ..on \mouseover ~> @highlight it.countryEnglishName
         ..on \touchstart ~> @highlight it.countryEnglishName
         ..on \mouseout ~> @downlight!
         ..on \touchend ~> @downlight!
       ..exit!remove!
+      ..select \span.amount .html -> ig.utils.formatNumber it.amount
+      ..style \top -> "#{it.index * lineHeight}px"
+      ..classed \odd -> it.index % 2
 
   highlight: (countryEnglishName) ->
     @bars.classed \highlight yes
