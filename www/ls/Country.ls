@@ -1,6 +1,7 @@
 class ig.Country
   (@englishName) ->
     @name = ig.countryNames[@englishName]
+    @population = ig.countryPopulations[@englishName]
     @years = [1990 to 2014].map -> new Year it
     @sources = []
     @sourcesAssoc = {}

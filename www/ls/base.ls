@@ -22,5 +22,6 @@ display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
 display2 = new ig.Display rightDisplayContainer
   ..display countriesAssoc['Hungary']
-# <~ setTimeout _, 1000
+<~ setTimeout _, 1000
+display1.setRatio yes
 # display2.display countriesAssoc['Italy']

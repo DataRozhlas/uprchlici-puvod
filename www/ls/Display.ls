@@ -7,6 +7,7 @@ color = (country) ->
   else
     \#aaa
 displays = []
+ratioEnabled = 0
 class ig.Display
   (@element) ->
     displays.push @
@@ -27,14 +28,22 @@ class ig.Display
         ..html -> it
         ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
     @heading = @element.append \h2
+    @ratio = 1
 
   display: (country) ->
-    @max = d3.max country.years.map (.sum)
+    if not country
+      country = @currentCountry
+      banOtherUpdate = yes
+    @currentCountry = country
+    @rawMax = d3.max country.years.map (.sum)
+    @setRatio!
+    @max = @rawMax * @ratio
+    console.log @max
     domainMax = yScale.domain!1
     if @otherDisplay
       maxMax = Math.max @max, @otherDisplay.max
       yScale.domain [0 maxMax]
-      if maxMax != domainMax
+      if maxMax != domainMax and not banOtherUpdate
         @otherDisplay.updateYScale!
     else
       yScale.domain [0 @max]
@@ -68,10 +77,20 @@ class ig.Display
       ..classed \odd -> it.index % 2
     @heading.html country.name
 
+  setRatio: (enable = null) ->
+    if enable == yes or enable == no
+      ratioEnabled := enable
+    @ratio = 1
+    if ratioEnabled
+      @ratio /= @currentCountry.population
+    if enable == yes or enable == no
+      @display!
+      @otherDisplay.display!
+
   updateYScale: ->
     @yearSources
-      ..style \bottom -> "#{yScale it.previousAmount}%"
-      ..style \height -> "#{yScale it.amount}%"
+      ..style \bottom ~> "#{yScale @ratio * it.previousAmount}%"
+      ..style \height ~> "#{yScale @ratio * it.amount}%"
 
   highlight: (countryEnglishName) ->
     @bars.classed \highlight yes
