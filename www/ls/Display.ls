@@ -14,7 +14,6 @@ class ig.Display
     if displays.0 != @
       displays.0.otherDisplay = @
       @otherDisplay = displays.0
-
     @bars = @element.append \div
       ..attr \class \bars
     @years = @bars.selectAll \div .data [1990 to 2014] .enter!append \div
