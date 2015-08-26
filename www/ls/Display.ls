@@ -7,7 +7,7 @@ color = (country) ->
   else
     \#aaa
 displays = []
-ratioEnabled = 0
+ratioEnabled = 1
 class ig.Display
   (@element) ->
     displays.push @
@@ -28,22 +28,21 @@ class ig.Display
         ..html -> it
         ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
     @heading = @element.append \h2
-    @ratio = 1
 
   display: (country) ->
-    if not country
-      country = @currentCountry
-      banOtherUpdate = yes
+    country? = @currentCountry
     @currentCountry = country
+    @ratio = 1
+    if ratioEnabled
+      @ratio /= @currentCountry.population
     @rawMax = d3.max country.years.map (.sum)
     @setRatio!
     @max = @rawMax * @ratio
-    console.log @max
     domainMax = yScale.domain!1
     if @otherDisplay
       maxMax = Math.max @max, @otherDisplay.max
       yScale.domain [0 maxMax]
-      if maxMax != domainMax and not banOtherUpdate
+      if maxMax != domainMax
         @otherDisplay.updateYScale!
     else
       yScale.domain [0 @max]
@@ -80,10 +79,6 @@ class ig.Display
   setRatio: (enable = null) ->
     if enable == yes or enable == no
       ratioEnabled := enable
-    @ratio = 1
-    if ratioEnabled
-      @ratio /= @currentCountry.population
-    if enable == yes or enable == no
       @display!
       @otherDisplay.display!
 

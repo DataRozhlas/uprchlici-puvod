@@ -21,7 +21,7 @@ new Tooltip!watchElements!
 display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
 display2 = new ig.Display rightDisplayContainer
-  ..display countriesAssoc['Hungary']
+  ..display countriesAssoc['France']
 <~ setTimeout _, 1000
-display1.setRatio yes
+display2.setRatio no
 # display2.display countriesAssoc['Italy']
