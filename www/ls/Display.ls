@@ -85,7 +85,13 @@ class ig.Display
         ..on \mouseout ~> @downlight!
         ..on \touchend ~> @downlight!
       ..exit!remove!
-      ..select \span.amount .html ~> ig.utils.formatNumber it.amount * @ratio
+      ..select \span.amount .html ~>
+        number = it.amount * @ratio
+        decimals =
+          | number < 10 => 2
+          | number < 100 => 1
+          | otherwise => 0
+        ig.utils.formatNumber number, decimals
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
 
