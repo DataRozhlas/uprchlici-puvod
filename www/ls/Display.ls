@@ -76,8 +76,9 @@ class ig.Display
     for source, index in lastYear
       source.index = index
     lineHeight = 23
-    @topTen.selectAll \li .data lastYear, (.country)
+    @topTen.selectAll \li.country .data lastYear, (.country)
       ..enter!append \li
+        ..attr \class \country
         ..append \span
           ..attr \class \name
           ..html (.country)
@@ -101,6 +102,24 @@ class ig.Display
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
     @topTenHeading.html "Uprchlíků na milion obyvatel, #{year.year}"
+
+    sumNumber = year.sum * @ratio
+    sumDecimals =
+      | sumNumber < 10 => 2
+      | sumNumber < 100 => 1
+      | otherwise => 0
+
+    @topTen.selectAll \li.sum .data [year]
+      ..enter!append \li
+        ..attr \class \sum
+        ..append \span
+          ..attr \class \name
+          ..html "Celkem"
+        ..append \span
+          ..attr \class \amount
+      ..select \span.amount .html "#{ig.utils.formatNumber sumNumber, sumDecimals}"
+      ..classed \odd -> lastYear.length % 2
+      ..style \top -> "#{lastYear.length * lineHeight}px"
 
   setRatio: (enable = null) ->
     if enable == yes or enable == no
