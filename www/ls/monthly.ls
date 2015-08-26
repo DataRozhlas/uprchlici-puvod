@@ -17,7 +17,7 @@ data = d3.tsv.parse ig.data.uprchlici_2015, (row) ->
     countriesAssoc[row.to].addLine do
       month
       row.from
-      parseInt row["0#{month}-2015"], 10
+      (parseInt row["0#{month}-2015"], 10) || 0
   row
 
 for country in countries
