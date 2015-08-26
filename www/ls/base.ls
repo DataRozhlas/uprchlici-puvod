@@ -22,6 +22,17 @@ display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
 display2 = new ig.Display rightDisplayContainer
   ..display countriesAssoc['France']
-# <~ setTimeout _, 1000
-# display2.setRatio no
-# display2.display countriesAssoc['Italy']
+
+countrySelector = container.append \div
+  ..attr \class \country-selector
+  ..append \span .html "Zobrazit jinou zemi<br>"
+  ..append \select
+    ..append \option .html "Vyberte…"
+    ..selectAll \option .data countries .enter!append \option
+      ..html -> it.name
+      ..attr \value -> it.englishName
+    ..on \change ->
+      console.log countriesAssoc[@value]
+      display2.display countriesAssoc[@value]
+<~ setTimeout _, 1000
+display2.display countriesAssoc['Australia']

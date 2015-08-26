@@ -178,3 +178,4 @@ ig.countryNames =
   "Curacao"                                  : "Curacao"
   "Ireland"                                  : "Irsko"
   "Niue"                                     : "Niue"
+  "Cyprus"                                   : "Kypr"

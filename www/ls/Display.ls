@@ -34,7 +34,8 @@ class ig.Display
     @heading = @element.append \h2
 
   display: (country) ->
-    country? = @currentCountry
+    if country is void
+      country = @currentCountry
     @currentCountry = country
     @ratio = 1
     if ratioEnabled
