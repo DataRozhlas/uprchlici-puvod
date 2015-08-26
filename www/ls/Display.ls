@@ -19,6 +19,8 @@ class ig.Display
       ..attr \class \bars
     @years = @bars.selectAll \div .data [1990 to 2014] .enter!append \div
       ..attr \class \year
+      ..on \mouseover @~onYearHover
+      ..on \touchstart @~onYearHover
     @topTen = @element.append \ol
       ..attr \class \top-ten
     @legend = @element.append \div
@@ -52,11 +54,23 @@ class ig.Display
         ..attr \class \item
         ..style \background-color -> color it.countryEnglishName
       ..exit!remove!
-      ..attr \data-tooltip -> "#{it.country}: #{ig.utils.formatNumber it.amount}"
+      ..attr \data-tooltip ~> "#{it.country}: #{ig.utils.formatNumber it.amount}"
     @updateYScale!
-    topTenSources = country.sources.slice 0, 10
+    @drawTopTen country.years[*-1]
+    @heading.html country.name
+
+  onYearHover: (year, index) ->
+    @drawTopTen year
+    if @otherDisplay
+      @otherDisplay.drawTopTen do
+        @otherDisplay.currentCountry.years[index]
+
+  drawTopTen: (year) ->
+    lastYear = year.sources.slice 0, 10
+    for source, index in lastYear
+      source.index = index
     lineHeight = 23
-    @topTen.selectAll \li .data topTenSources, (.country)
+    @topTen.selectAll \li .data lastYear, (.country)
       ..enter!append \li
         ..append \span
           ..attr \class \name
@@ -71,10 +85,9 @@ class ig.Display
         ..on \mouseout ~> @downlight!
         ..on \touchend ~> @downlight!
       ..exit!remove!
-      ..select \span.amount .html -> ig.utils.formatNumber it.amount
+      ..select \span.amount .html ~> ig.utils.formatNumber it.amount * @ratio
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
-    @heading.html country.name
 
   setRatio: (enable = null) ->
     if enable == yes or enable == no

@@ -38,7 +38,7 @@ class Year
       | b.isOther => -1
       | otherwise            => b.amount - a.amount
     previousAmount = 0
-    for source in @sources
+    for source, index in @sources
       source.previousAmount = previousAmount
       previousAmount += source.amount
 
