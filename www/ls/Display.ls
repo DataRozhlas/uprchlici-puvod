@@ -29,6 +29,8 @@ class ig.Display
         ..attr \class \item
         ..html -> it
         ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
+    @topTenHeading = @element.append \div
+      ..attr \class \top-ten-heading
     @heading = @element.append \h2
 
   display: (country) ->
@@ -94,6 +96,7 @@ class ig.Display
         ig.utils.formatNumber number, decimals
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
+    @topTenHeading.html "Uprchlíků na milion obyvatel, #{year.year}"
 
   setRatio: (enable = null) ->
     if enable == yes or enable == no

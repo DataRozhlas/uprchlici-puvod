@@ -52,7 +52,7 @@ barsHeight = 300px
       margin 0px
       padding 0px
       position absolute
-      top 0px
+      top 23px
       right 0px
       width (150px + 75px)
       li
@@ -85,6 +85,17 @@ barsHeight = 300px
           background #fa
         &:hover span
           font-weight 700
+    .top-ten-heading
+      position absolute
+      top 0px
+      right 0px
+      background #fa
+      width (150px + 75px)
+      font-size 0.9em
+      font-weight 500
+      padding 2px 0px 2px 19px
+      border-bottom 1px solid #d0
+
     .legend
       position absolute
       top (tableHeight + barsHeight + 23px)
@@ -94,11 +105,14 @@ barsHeight = 300px
         position absolute
         bottom 0px
         transform translate(-50%, 0)
+
     &:nth-of-type(2)
       float right
       .top-ten
+      .top-ten-heading
         left 0px
       h2
         left auto
         right 0px
+
 
