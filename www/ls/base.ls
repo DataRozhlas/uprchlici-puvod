@@ -22,13 +22,17 @@ display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
 display2 = new ig.Display rightDisplayContainer
   ..display countriesAssoc['Germany']
-
+countriesSorted = countries.slice!
+countriesSorted.sort (a, b) ->
+  | a.sortableName > b.sortableName => 1
+  | b.sortableName > a.sortableName => -1
+  | otherwise                       => 0
 countrySelector = container.append \div
   ..attr \class \country-selector
   ..append \span .html "Zobrazit jinou zemi<br>"
   ..append \select
     ..append \option .html "Vyberte…"
-    ..selectAll \option .data countries .enter!append \option
+    ..selectAll \option .data countriesSorted .enter!append \option
       ..html -> it.name
       ..attr \value -> it.englishName
     ..on \change ->

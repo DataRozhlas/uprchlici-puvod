@@ -5,6 +5,15 @@ class ig.Country
     @years = [1990 to 2014].map -> new Year it
     @sources = []
     @sourcesAssoc = {}
+    @sortableName = switch @name
+      | "Írán"      => "Irán"
+      | "Česko"     => "Cesko"
+      | "Čína"      => "Cína"
+      | "Řecko"     => "Recko"
+      | "Španělsko" => "Spanělsko"
+      | "Švédsko"   => "Svédsko"
+      | "Švýcarsko" => "Svýcarsko"
+      | otherwise   => @name
 
   addLine: (year, source, amount) ->
     yearIndex = year - 1990
