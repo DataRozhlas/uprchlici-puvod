@@ -37,5 +37,4 @@ countrySelector = container.append \div
       ..html -> it.name
       ..attr \value -> it.englishName
     ..on \change ->
-      console.log countriesAssoc[@value]
       display2.display countriesAssoc[@value]

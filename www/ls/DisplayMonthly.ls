@@ -118,7 +118,7 @@ class ig.DisplayMonthly
         ..attr \class \sum
         ..append \span
           ..attr \class \name
-          ..html "Celkem"
+          ..html "Celkem (vč. ostatních)"
         ..append \span
           ..attr \class \amount
       ..select \span.amount .html "#{ig.utils.formatNumber sumNumber, sumDecimals}"
