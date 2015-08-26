@@ -2,11 +2,11 @@
 0	0	0	28	1	37		Sýrie	Albánie
 898	659	835	1020	1833	2401		Sýrie	Rakousko
 256	204	222	204	270	513		Sýrie	Belgie
-0	1	0	0	0	0	1	Sýrie	Bosna a H.
+0	1	0	0	0	0	1	Sýrie	Bosna a Hercegovina
 591	460	401	547	530	852	677	Sýrie	Bulharsko
 6	7	1	0	0	0	0	Sýrie	Chorvatsko
 72	43	58	53	61	58		Sýrie	Kypr
-6	7	9	1	11	12		Sýrie	Česká rep.
+6	7	9	1	11	12		Sýrie	Česko
 307	148	152	241	313			Sýrie	Dánsko
 0	0	1	8	1	1	0	Sýrie	Estonsko
 17	13	10	13	12			Sýrie	Finsko
@@ -36,9 +36,9 @@
 134	148	96	137	88	125	235	Sýrie	Švýcarsko
 123	40	75	56	95	382	168	Sýrie	Makedonie
 1	8	11	21	9	14	9	Sýrie	Turecko
-258	167	160	110	139			Sýrie	Spojené království
+258	167	160	110	139			Sýrie	Británie
 47	32	20	15	35	73	55	Sýrie	Kanada
-118	56	79	64	76	71	81	Sýrie	USA
+118	56	79	64	76	71	81	Sýrie	Spojené státy americké
 8	8	1	1	1	9	1	Sýrie	Austrálie
 0	0	0	0	0	6	1	Sýrie	Nový Zéland
 1	0	0	1	0			Sýrie	Japonsko
@@ -46,11 +46,11 @@
 0	0	0	0	1	0		Afghánistán	Albánie
 652	418	569	739	1488	1771		Afghánistán	Rakousko
 124	87	53	79	134	255		Afghánistán	Belgie
-1	0	0	1	0	0		Afghánistán	Bosna a H.
+1	0	0	1	0	0		Afghánistán	Bosna a Hercegovina
 275	345	259	233	291	253	522	Afghánistán	Bulharsko
 5	0	1	0	0	0	0	Afghánistán	Chorvatsko
 0	0	0	0	0	0		Afghánistán	Kypr
-0	1	1	1	1	6		Afghánistán	Česká rep.
+0	1	1	1	1	6		Afghánistán	Česko
 23	25	25	23	44			Afghánistán	Dánsko
 0	0	0	0	0	1	0	Afghánistán	Estonsko
 12	16	26	11	23			Afghánistán	Finsko
@@ -80,65 +80,65 @@
 88	89	39	67	108	155	251	Afghánistán	Švýcarsko
 39	84	36	5	88	55	14	Afghánistán	Makedonie
 566	809	1220	2025	2851	4622	5250	Afghánistán	Turecko
-108	109	122	118	133			Afghánistán	Spojené království
+108	109	122	118	133			Afghánistán	Británie
 45	30	32	20	18	25	37	Afghánistán	Kanada
-26	32	23	24	26	21	24	Afghánistán	USA
+26	32	23	24	26	21	24	Afghánistán	Spojené státy americké
 1	7	5	8	13	32	38	Afghánistán	Austrálie
 1	1	1	1	0	1	0	Afghánistán	Nový Zéland
 1	0	1	0	0			Afghánistán	Japonsko
 0	1	0	0	6	1		Afghánistán	Jižní Korea
-0	0	0	0	0	0		Srbsko	Albánie
-1080	943	137	82	79	47		Srbsko	Rakousko
-93	106	73	50	44	60		Srbsko	Belgie
-0	0	0	1	0	0	1	Srbsko	Bosna a H.
-0	0	0	0	0	0	0	Srbsko	Bulharsko
-0	1	0	5	1	0	1	Srbsko	Chorvatsko
-0	0	0	0	0	1		Srbsko	Kypr
-7	1	0	0	0	0		Srbsko	Česká rep.
-14	43	18	10	31			Srbsko	Dánsko
-0	0	0	0	0	0	0	Srbsko	Estonsko
-16	30	22	17	22			Srbsko	Finsko
-430	618	626	462	335	385		Srbsko	Francie
-5076	8784	12856	5781	3176	2777	2654	Srbsko	Německo
-0	0	0	0	0	0		Srbsko	Řecko
-9014	13448	385	265	157	76		Srbsko	Maďarsko
-0	0	0	0	0			Srbsko	Island
-1	1	1	0	1	1		Srbsko	Irsko
-26	21	57	24	30	24		Srbsko	Itálie
-0	0	0	0	0	0	0	Srbsko	Lotyšsko
-0	0	0	1	1	11	1	Srbsko	Lichtenštejnsko
-0	0	0	0	0	0	0	Srbsko	Litva
-19	38	22	13	17	31	19	Srbsko	Lucembursko
-0	0	0	0	1	0		Srbsko	Malta
-0	0	1	0	1	1	0	Srbsko	Černá Hora
-32	40	34	36	101	186		Srbsko	Nizozemsko
-34	41	27	23	13	20		Srbsko	Norsko
-0	0	0	0	0	0		Srbsko	Polsko
-0	0	0	0	0			Srbsko	Portugalsko
-0	0	0	1	0	0		Srbsko	Rumunsko
-0	0	0	0	0	0	0	Srbsko	Srbsko a Kosovo
-0	0	0	0	0	0		Srbsko	Slovensko
-1	1	1	0	1	1		Srbsko	Slovinsko
-7	0	1	0	1	0		Srbsko	Španělsko
-369	491	261	199	151	142	129	Srbsko	Švédsko
-116	82	67	50	55	43	14	Srbsko	Švýcarsko
-0	0	0	0	0	0	0	Srbsko	Makedonie
-0	0	0	0	0	0	0	Srbsko	Turecko
-1	0	5	5	1			Srbsko	Spojené království
-1	1	6	9	1	1	0	Srbsko	Kanada
-22	20	20	30	48	26	12	Srbsko	USA
-0	0	0	0	0	0	0	Srbsko	Austrálie
-0	0	0	0	0	0	0	Srbsko	Nový Zéland
-0	0	0	0	0			Srbsko	Japonsko
-0	0	0	0	0	0		Srbsko	Jižní Korea
+0	0	0	0	0	0		Srbsko a Kosovo	Albánie
+1080	943	137	82	79	47		Srbsko a Kosovo	Rakousko
+93	106	73	50	44	60		Srbsko a Kosovo	Belgie
+0	0	0	1	0	0	1	Srbsko a Kosovo	Bosna a Hercegovina
+0	0	0	0	0	0	0	Srbsko a Kosovo	Bulharsko
+0	1	0	5	1	0	1	Srbsko a Kosovo	Chorvatsko
+0	0	0	0	0	1		Srbsko a Kosovo	Kypr
+7	1	0	0	0	0		Srbsko a Kosovo	Česko
+14	43	18	10	31			Srbsko a Kosovo	Dánsko
+0	0	0	0	0	0	0	Srbsko a Kosovo	Estonsko
+16	30	22	17	22			Srbsko a Kosovo	Finsko
+430	618	626	462	335	385		Srbsko a Kosovo	Francie
+5076	8784	12856	5781	3176	2777	2654	Srbsko a Kosovo	Německo
+0	0	0	0	0	0		Srbsko a Kosovo	Řecko
+9014	13448	385	265	157	76		Srbsko a Kosovo	Maďarsko
+0	0	0	0	0			Srbsko a Kosovo	Island
+1	1	1	0	1	1		Srbsko a Kosovo	Irsko
+26	21	57	24	30	24		Srbsko a Kosovo	Itálie
+0	0	0	0	0	0	0	Srbsko a Kosovo	Lotyšsko
+0	0	0	1	1	11	1	Srbsko a Kosovo	Lichtenštejnsko
+0	0	0	0	0	0	0	Srbsko a Kosovo	Litva
+19	38	22	13	17	31	19	Srbsko a Kosovo	Lucembursko
+0	0	0	0	1	0		Srbsko a Kosovo	Malta
+0	0	1	0	1	1	0	Srbsko a Kosovo	Černá Hora
+32	40	34	36	101	186		Srbsko a Kosovo	Nizozemsko
+34	41	27	23	13	20		Srbsko a Kosovo	Norsko
+0	0	0	0	0	0		Srbsko a Kosovo	Polsko
+0	0	0	0	0			Srbsko a Kosovo	Portugalsko
+0	0	0	1	0	0		Srbsko a Kosovo	Rumunsko
+0	0	0	0	0	0	0	Srbsko a Kosovo	Srbsko a Kosovo
+0	0	0	0	0	0		Srbsko a Kosovo	Slovensko
+1	1	1	0	1	1		Srbsko a Kosovo	Slovinsko
+7	0	1	0	1	0		Srbsko a Kosovo	Španělsko
+369	491	261	199	151	142	129	Srbsko a Kosovo	Švédsko
+116	82	67	50	55	43	14	Srbsko a Kosovo	Švýcarsko
+0	0	0	0	0	0	0	Srbsko a Kosovo	Makedonie
+0	0	0	0	0	0	0	Srbsko a Kosovo	Turecko
+1	0	5	5	1			Srbsko a Kosovo	Británie
+1	1	6	9	1	1	0	Srbsko a Kosovo	Kanada
+22	20	20	30	48	26	12	Srbsko a Kosovo	Spojené státy americké
+0	0	0	0	0	0	0	Srbsko a Kosovo	Austrálie
+0	0	0	0	0	0	0	Srbsko a Kosovo	Nový Zéland
+0	0	0	0	0			Srbsko a Kosovo	Japonsko
+0	0	0	0	0	0		Srbsko a Kosovo	Jižní Korea
 0	0	0	0	0	1		Irák	Albánie
 290	201	308	480	1071	1232		Irák	Rakousko
 115	62	89	62	170	411		Irák	Belgie
-0	0	0	0	1	0	1	Irák	Bosna a H.
+0	0	0	0	1	0	1	Irák	Bosna a Hercegovina
 99	97	272	236	434	417	560	Irák	Bulharsko
 0	0	0	0	0	0	0	Irák	Chorvatsko
 5	0	6	0	1	10		Irák	Kypr
-1	0	1	0	1	1		Irák	Česká rep.
+1	0	1	0	1	1		Irák	Česko
 10	5	7	5	14			Irák	Dánsko
 0	0	0	0	0	1	1	Irák	Estonsko
 104	74	81	76	113			Irák	Finsko
@@ -168,9 +168,9 @@
 23	39	19	26	26	31	64	Irák	Švýcarsko
 1	9	23	28	11	58	11	Irák	Makedonie
 4427	4187	4154	4170	3391	5363	6858	Irák	Turecko
-108	86	88	64	81			Irák	Spojené království
+108	86	88	64	81			Irák	Británie
 64	30	33	18	18	21	52	Irák	Kanada
-131	100	128	98	85	96	92	Irák	USA
+131	100	128	98	85	96	92	Irák	Spojené státy americké
 21	61	50	60	62	144	81	Irák	Austrálie
 0	0	0	1	1	1	0	Irák	Nový Zéland
 1	1	1	0	1			Irák	Japonsko
@@ -178,11 +178,11 @@
 0	0	0	0	0	0		Albánie	Albánie
 0	0	0	0	0	0		Albánie	Rakousko
 46	28	45	40	31	38		Albánie	Belgie
-0	0	0	0	0	0	0	Albánie	Bosna a H.
+0	0	0	0	0	0	0	Albánie	Bosna a Hercegovina
 0	0	0	0	0	0	0	Albánie	Bulharsko
 0	0	0	0	1	0	0	Albánie	Chorvatsko
 0	0	0	0	0	0		Albánie	Kypr
-0	0	0	0	0	0		Albánie	Česká rep.
+0	0	0	0	0	0		Albánie	Česko
 0	1	1	1	1			Albánie	Dánsko
 0	0	0	0	0	0	0	Albánie	Estonsko
 1	15	7	14	25			Albánie	Finsko
@@ -212,109 +212,109 @@
 10	6	12	22	30	18	18	Albánie	Švýcarsko
 0	0	0	0	0	0	0	Albánie	Makedonie
 0	0	0	0	0	0	0	Albánie	Turecko
-140	126	145	134	135			Albánie	Spojené království
+140	126	145	134	135			Albánie	Británie
 7	9	17	6	1	6	12	Albánie	Kanada
-25	16	17	14	28	13	15	Albánie	USA
+25	16	17	14	28	13	15	Albánie	Spojené státy americké
 0	1	1	1	0	6	0	Albánie	Austrálie
 0	0	0	0	0	0	0	Albánie	Nový Zéland
 0	0	0	0	0			Albánie	Japonsko
 0	0	0	0	0	0		Albánie	Jižní Korea
-1	0	1	0	0	5		Eritreia	Albánie
-0	0	0	0	0	0		Eritreia	Rakousko
-11	7	17	37	56	36		Eritreia	Belgie
-0	0	0	0	0	0	0	Eritreia	Bosna a H.
-1	0	0	0	0	0	0	Eritreia	Bulharsko
-0	0	0	0	1	0	0	Eritreia	Chorvatsko
-0	0	0	0	0	0		Eritreia	Kypr
-0	0	0	0	0	0		Eritreia	Česká rep.
-5	10	21	76	214			Eritreia	Dánsko
-0	0	0	0	0	0	0	Eritreia	Estonsko
-0	0	1	0	1			Eritreia	Finsko
-82	73	74	84	192	104		Eritreia	Francie
-620	350	306	362	612	1063	1209	Eritreia	Německo
-17	7	9	1	11	9		Eritreia	Řecko
-12	0	15	44	42	36		Eritreia	Maďarsko
-0	0	0	0	0			Eritreia	Island
-0	0	0	0	0	0		Eritreia	Irsko
-33	40	39	25	15	41		Eritreia	Itálie
-0	0	0	0	0	0	0	Eritreia	Lotyšsko
-0	0	1	0	0	0	0	Eritreia	Lichtenštejnsko
-0	0	0	0	1	0	0	Eritreia	Litva
-1	1	5	1	7	1	6	Eritreia	Lucembursko
-0	0	1	1	1	1		Eritreia	Malta
-35	40	27	18	34	12	0	Eritreia	Černá Hora
-25	18	83	354	1078	1248		Eritreia	Nizozemsko
-50	36	43	131	570	199		Eritreia	Norsko
-0	0	1	0	1	0		Eritreia	Polsko
-0	0	0	0	0			Eritreia	Portugalsko
-0	0	1	0	0	0		Eritreia	Rumunsko
-87	79	84	30	76	64	371	Eritreia	Srbsko a Kosovo
-0	0	0	0	0	0		Eritreia	Slovensko
-0	0	0	0	0	0		Eritreia	Slovinsko
-0	0	1	0	0	1		Eritreia	Španělsko
-182	168	205	396	1045	964	814	Eritreia	Švédsko
-136	157	250	222	799	2191	2120	Eritreia	Švýcarsko
-1	0	0	0	1	0	0	Eritreia	Makedonie
-6	5	10	12	7	1	1	Eritreia	Turecko
-308	203	193	92	268			Eritreia	Spojené království
-42	14	23	21	8	13	38	Eritreia	Kanada
-45	40	49	51	48	55	32	Eritreia	USA
-0	1	1	0	0	1	0	Eritreia	Austrálie
-0	0	0	1	0	0	0	Eritreia	Nový Zéland
-0	0	0	0	0			Eritreia	Japonsko
-0	0	0	0	0	0		Eritreia	Jižní Korea
-0	0	0	0	0	0		Pakistán	Albánie
-70	52	84	200	322	393		Pakistán	Rakousko
-14	16	18	9	10	44		Pakistán	Belgie
-0	0	0	0	0	0	0	Pakistán	Bosna a H.
-36	60	107	65	36	37	24	Pakistán	Bulharsko
-0	0	0	0	0	1	0	Pakistán	Chorvatsko
-8	1	8	6	1	7		Pakistán	Kypr
-0	0	0	0	1	0		Pakistán	Česká rep.
-7	6	9	1	1			Pakistán	Dánsko
-0	0	0	0	0	0		Pakistán	Estonsko
-1	1	1	1	0			Pakistán	Finsko
-121	137	159	141	99	126		Pakistán	Francie
-419	342	225	434	431	812	666	Pakistán	Německo
-163	137	95	124	152	138		Pakistán	Řecko
-66	143	336	454	730	1481		Pakistán	Maďarsko
-0	0	0	0	0			Pakistán	Island
-77	92	99	139	123	176		Pakistán	Irsko
-431	442	486	448	504	452		Pakistán	Itálie
-0	0	0	0	0	0	0	Pakistán	Lotyšsko
-0	0	0	0	0	0	0	Pakistán	Lichtenštejnsko
-0	0	0	0	0	0	0	Pakistán	Litva
-1	1	0	0	0	1	0	Pakistán	Lucembursko
-0	0	0	0	1	0		Pakistán	Malta
-0	1	0	0	0	1	0	Pakistán	Černá Hora
-29	12	10	1	8	26		Pakistán	Nizozemsko
-1	5	1	1	11	9		Pakistán	Norsko
-0	1	1	0	1	1		Pakistán	Polsko
-6	1	6	1	0			Pakistán	Portugalsko
-1	1	1	0	0	1		Pakistán	Rumunsko
-40	44	101	79	170	390	880	Pakistán	Srbsko a Kosovo
-0	0	0	0	0	0		Pakistán	Slovensko
-0	0	1	1	0	0		Pakistán	Slovinsko
-6	7	6	10	6	0		Pakistán	Španělsko
-35	21	13	10	30	40	43	Pakistán	Švédsko
-18	12	10	10	7	8	12	Pakistán	Švýcarsko
-0	1	1	9	1	36	8	Pakistán	Makedonie
-65	30	48	56	69	47	18	Pakistán	Turecko
-265	230	251	196	239			Pakistán	Spojené království
-49	83	63	49	76	56	104	Pakistán	Kanada
-58	60	81	70	67	93	80	Pakistán	USA
-37	44	74	71	38	72	45	Pakistán	Austrálie
-0	1	1	1	1	6	1	Pakistán	Nový Zéland
-22	29	23	21	20			Pakistán	Japonsko
-56	55	85	82	90	117		Pakistán	Jižní Korea
+1	0	1	0	0	5		Eritrea	Albánie
+0	0	0	0	0	0		Eritrea	Rakousko
+11	7	17	37	56	36		Eritrea	Belgie
+0	0	0	0	0	0	0	Eritrea	Bosna a Hercegovina
+1	0	0	0	0	0	0	Eritrea	Bulharsko
+0	0	0	0	1	0	0	Eritrea	Chorvatsko
+0	0	0	0	0	0		Eritrea	Kypr
+0	0	0	0	0	0		Eritrea	Česko
+5	10	21	76	214			Eritrea	Dánsko
+0	0	0	0	0	0	0	Eritrea	Estonsko
+0	0	1	0	1			Eritrea	Finsko
+82	73	74	84	192	104		Eritrea	Francie
+620	350	306	362	612	1063	1209	Eritrea	Německo
+17	7	9	1	11	9		Eritrea	Řecko
+12	0	15	44	42	36		Eritrea	Maďarsko
+0	0	0	0	0			Eritrea	Island
+0	0	0	0	0	0		Eritrea	Irsko
+33	40	39	25	15	41		Eritrea	Itálie
+0	0	0	0	0	0	0	Eritrea	Lotyšsko
+0	0	1	0	0	0	0	Eritrea	Lichtenštejnsko
+0	0	0	0	1	0	0	Eritrea	Litva
+1	1	5	1	7	1	6	Eritrea	Lucembursko
+0	0	1	1	1	1		Eritrea	Malta
+35	40	27	18	34	12	0	Eritrea	Černá Hora
+25	18	83	354	1078	1248		Eritrea	Nizozemsko
+50	36	43	131	570	199		Eritrea	Norsko
+0	0	1	0	1	0		Eritrea	Polsko
+0	0	0	0	0			Eritrea	Portugalsko
+0	0	1	0	0	0		Eritrea	Rumunsko
+87	79	84	30	76	64	371	Eritrea	Srbsko a Kosovo
+0	0	0	0	0	0		Eritrea	Slovensko
+0	0	0	0	0	0		Eritrea	Slovinsko
+0	0	1	0	0	1		Eritrea	Španělsko
+182	168	205	396	1045	964	814	Eritrea	Švédsko
+136	157	250	222	799	2191	2120	Eritrea	Švýcarsko
+1	0	0	0	1	0	0	Eritrea	Makedonie
+6	5	10	12	7	1	1	Eritrea	Turecko
+308	203	193	92	268			Eritrea	Británie
+42	14	23	21	8	13	38	Eritrea	Kanada
+45	40	49	51	48	55	32	Eritrea	Spojené státy americké
+0	1	1	0	0	1	0	Eritrea	Austrálie
+0	0	0	1	0	0	0	Eritrea	Nový Zéland
+0	0	0	0	0			Eritrea	Japonsko
+0	0	0	0	0	0		Eritrea	Jižní Korea
+0	0	0	0	0	0		Pákistán	Albánie
+70	52	84	200	322	393		Pákistán	Rakousko
+14	16	18	9	10	44		Pákistán	Belgie
+0	0	0	0	0	0	0	Pákistán	Bosna a Hercegovina
+36	60	107	65	36	37	24	Pákistán	Bulharsko
+0	0	0	0	0	1	0	Pákistán	Chorvatsko
+8	1	8	6	1	7		Pákistán	Kypr
+0	0	0	0	1	0		Pákistán	Česko
+7	6	9	1	1			Pákistán	Dánsko
+0	0	0	0	0	0		Pákistán	Estonsko
+1	1	1	1	0			Pákistán	Finsko
+121	137	159	141	99	126		Pákistán	Francie
+419	342	225	434	431	812	666	Pákistán	Německo
+163	137	95	124	152	138		Pákistán	Řecko
+66	143	336	454	730	1481		Pákistán	Maďarsko
+0	0	0	0	0			Pákistán	Island
+77	92	99	139	123	176		Pákistán	Irsko
+431	442	486	448	504	452		Pákistán	Itálie
+0	0	0	0	0	0	0	Pákistán	Lotyšsko
+0	0	0	0	0	0	0	Pákistán	Lichtenštejnsko
+0	0	0	0	0	0	0	Pákistán	Litva
+1	1	0	0	0	1	0	Pákistán	Lucembursko
+0	0	0	0	1	0		Pákistán	Malta
+0	1	0	0	0	1	0	Pákistán	Černá Hora
+29	12	10	1	8	26		Pákistán	Nizozemsko
+1	5	1	1	11	9		Pákistán	Norsko
+0	1	1	0	1	1		Pákistán	Polsko
+6	1	6	1	0			Pákistán	Portugalsko
+1	1	1	0	0	1		Pákistán	Rumunsko
+40	44	101	79	170	390	880	Pákistán	Srbsko a Kosovo
+0	0	0	0	0	0		Pákistán	Slovensko
+0	0	1	1	0	0		Pákistán	Slovinsko
+6	7	6	10	6	0		Pákistán	Španělsko
+35	21	13	10	30	40	43	Pákistán	Švédsko
+18	12	10	10	7	8	12	Pákistán	Švýcarsko
+0	1	1	9	1	36	8	Pákistán	Makedonie
+65	30	48	56	69	47	18	Pákistán	Turecko
+265	230	251	196	239			Pákistán	Británie
+49	83	63	49	76	56	104	Pákistán	Kanada
+58	60	81	70	67	93	80	Pákistán	Spojené státy americké
+37	44	74	71	38	72	45	Pákistán	Austrálie
+0	1	1	1	1	6	1	Pákistán	Nový Zéland
+22	29	23	21	20			Pákistán	Japonsko
+56	55	85	82	90	117		Pákistán	Jižní Korea
 0	0	0	0	0	1		Somálsko	Albánie
 100	138	134	270	278	234		Somálsko	Rakousko
 30	28	85	94	424	276		Somálsko	Belgie
-0	0	0	0	0	0	0	Somálsko	Bosna a H.
+0	0	0	0	0	0	0	Somálsko	Bosna a Hercegovina
 0	0	0	0	0	0	0	Somálsko	Bulharsko
 0	1	0	0	0	1	0	Somálsko	Chorvatsko
 1	1	10	6	1	0		Somálsko	Kypr
-0	0	0	0	1	0		Somálsko	Česká rep.
+0	0	0	0	1	0		Somálsko	Česko
 33	35	18	31	25			Somálsko	Dánsko
 0	0	0	0	0	0	0	Somálsko	Estonsko
 47	66	78	69	185			Somálsko	Finsko
@@ -344,9 +344,9 @@
 67	49	71	32	171	235	143	Somálsko	Švýcarsko
 9	0	0	12	16	20	0	Somálsko	Makedonie
 58	81	77	46	31	23	78	Somálsko	Turecko
-29	39	38	34	27			Somálsko	Spojené království
+29	39	38	34	27			Somálsko	Británie
 26	31	12	28	26	33	46	Somálsko	Kanada
-1	0	9	5	8	5	9	Somálsko	USA
+1	0	9	5	8	5	9	Somálsko	Spojené státy americké
 0	0	0	1	1	1	0	Somálsko	Austrálie
 0	0	0	0	0	0	0	Somálsko	Nový Zéland
 0	0	0	0	0			Somálsko	Japonsko
@@ -354,11 +354,11 @@
 0	0	0	0	0	0		Čína	Albánie
 0	0	0	0	0	0		Čína	Rakousko
 9	9	12	8	7	7		Čína	Belgie
-0	0	0	0	0	0	0	Čína	Bosna a H.
+0	0	0	0	0	0	0	Čína	Bosna a Hercegovina
 0	0	0	0	0	0	0	Čína	Bulharsko
 0	0	0	0	0	0	0	Čína	Chorvatsko
 0	0	0	0	1	0		Čína	Kypr
-0	0	0	1	0	0		Čína	Česká rep.
+0	0	0	1	0	0		Čína	Česko
 5	0	0	0	5			Čína	Dánsko
 0	0	0	0	0	0	0	Čína	Estonsko
 1	1	1	1	0			Čína	Finsko
@@ -388,9 +388,9 @@
 48	37	43	29	72	56	28	Čína	Švýcarsko
 0	0	0	0	0	0	0	Čína	Makedonie
 0	0	0	1	0	0	5	Čína	Turecko
-54	44	56	35	50			Čína	Spojené království
+54	44	56	35	50			Čína	Británie
 143	131	139	151	134	112	96	Čína	Kanada
-1143	1037	1204	1189	1186	1326	1094	Čína	USA
+1143	1037	1204	1189	1186	1326	1094	Čína	Spojené státy americké
 80	95	123	109	132	147	124	Čína	Austrálie
 1	1	7	1	0	1	1	Čína	Nový Zéland
 1	1	7	28	39			Čína	Japonsko
@@ -398,11 +398,11 @@
 0	0	0	0	1	1		Ukrajina	Albánie
 58	43	52	56	43	43		Ukrajina	Rakousko
 39	32	46	43	17	31		Ukrajina	Belgie
-0	0	1	0	0	0	0	Ukrajina	Bosna a H.
+0	0	1	0	0	0	0	Ukrajina	Bosna a Hercegovina
 11	6	16	8	1	1	1	Ukrajina	Bulharsko
 0	0	0	1	1	1	0	Ukrajina	Chorvatsko
 1	8	10	11	9	5		Ukrajina	Kypr
-49	50	78	65	36	40		Ukrajina	Česká rep.
+49	50	78	65	36	40		Ukrajina	Česko
 9	1	10	6	5			Ukrajina	Dánsko
 1	9	14	9	1	15	10	Ukrajina	Estonsko
 1	6	10	1	1			Ukrajina	Finsko
@@ -432,9 +432,9 @@
 38	40	34	24	26	17	16	Ukrajina	Švýcarsko
 0	0	0	0	0	0	0	Ukrajina	Makedonie
 0	0	0	0	0	0	0	Ukrajina	Turecko
-19	18	14	39	23			Ukrajina	Spojené království
+19	18	14	39	23			Ukrajina	Británie
 34	37	56	36	17	24	35	Ukrajina	Kanada
-114	136	169	161	246	177	158	Ukrajina	USA
+114	136	169	161	246	177	158	Ukrajina	Spojené státy americké
 5	0	5	1	1	1	1	Ukrajina	Austrálie
 1	0	1	0	0	0	0	Ukrajina	Nový Zéland
 1	7	0	1	0			Ukrajina	Japonsko

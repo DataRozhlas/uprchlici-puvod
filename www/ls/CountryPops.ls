@@ -53,3 +53,17 @@ ig.countryPopulations =
   "Lithuania"                                 : 3
   "Israel"                                    : 8.1
   "Rep. of Moldova"                           : 3.6
+  "Belgium"                                   : 11.2
+  "Bosnia and Herzegovina"                    : 3.829
+  "Bulgaria"                                  : 7.265
+  "Denmark"                                   : 5.614
+  "Estonia"                                   : 1.325
+  "Iceland"                                   : 0.323
+  "Ireland"                                   : 4.595
+  "Latvia"                                    : 2.013
+  "Liechtenstein"                             : 0.037
+  "Malta"                                     : 0.423
+  "Montenegro"                                : 0.621
+  "New Zealand"                               : 4.471
+  "Japan"                                     : 127.3
+  "Rep. of Korea"                             : 50.22
