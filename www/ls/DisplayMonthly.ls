@@ -8,7 +8,8 @@ color = (country) ->
     \#aaa
 displays = []
 ratioEnabled = 1
-class ig.Display
+months = <[Leden Únor Březen Duben Květen Červen Červenec]>
+class ig.DisplayMonthly
   (@element) ->
     displays.push @
     if displays.0 != @
@@ -17,7 +18,7 @@ class ig.Display
 
     @bars = @element.append \div
       ..attr \class \bars
-    @years = @bars.selectAll \div .data [1990 to 2014] .enter!append \div
+    @years = @bars.selectAll \div .data [1 to 7] .enter!append \div
       ..attr \class \year
       ..on \mouseover @~onYearHover
       ..on \touchstart @~onYearHover
@@ -25,10 +26,10 @@ class ig.Display
       ..attr \class \top-ten
     @legend = @element.append \div
       ..attr \class \legend
-      ..selectAll \div.item .data [1990, 1995, 2000, 2005, 2010, 2014] .enter!append \div
+      ..selectAll \div.item .data [1 to 7] .enter!append \div
         ..attr \class \item
-        ..html -> it
-        ..style \left -> "#{(it - 1990 + 0.5) * 100 / 25}%"
+        ..html (d, i) -> months[i]
+        ..style \left -> "#{(it - 1 + 0.5) * 100 / 7}%"
     @topTenHeading = @element.append \div
       ..attr \class \top-ten-heading
     @heading = @element.append \h2
@@ -60,7 +61,10 @@ class ig.Display
       ..attr \data-tooltip ~> "<b>#{it.country}: </b> <b>#{ig.utils.formatNumber it.amount}</b> uprchlíků,
       <br>tj. <b>#{ig.utils.formatNumber it.amount / @currentCountry.population}</b> na milion obyvatel"
     @updateYScale!
-    @drawTopTen country.years[*-1]
+    if country.years[*-1].sum
+      @drawTopTen country.years[*-1]
+    else
+      @drawTopTen country.years[*-2]
     @heading.html country.name
 
   onYearHover: (year, index) ->
@@ -70,6 +74,7 @@ class ig.Display
         @otherDisplay.currentCountry.years[index]
 
   drawTopTen: (year) ->
+    return unless year.sum
     lastYear = year.sources
       .slice 0, 10
       .filter -> it.amount
@@ -100,7 +105,7 @@ class ig.Display
         ig.utils.formatNumber number, decimals
       ..style \top -> "#{it.index * lineHeight}px"
       ..classed \odd -> it.index % 2
-    @topTenHeading.html "Uprchlíků na milion obyvatel, #{year.year}"
+    @topTenHeading.html "Uprchlíků na milion obyvatel, #{months[year.year - 1]}"
 
   setRatio: (enable = null) ->
     if enable == yes or enable == no

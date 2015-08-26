@@ -116,11 +116,21 @@ body
       h2
         left auto
         right 0px
+    &.monthly
+      width 100%
+      .bars
+        .year
+          width (100% / 7)
+
   .country-selector
     position absolute
     top 40px
     line-height 1.8em
     right 0px
     text-align right
+    &.monthly
+      right auto
+      text-align left
+      left 0px
 .tooltip
   font-size 0.8em

@@ -1,8 +1,11 @@
 class ig.Country
-  (@englishName) ->
+  (@englishName, @isMonthly) ->
     @name = ig.countryNames[@englishName]
     @population = ig.countryPopulations[@englishName]
-    @years = [1990 to 2014].map -> new Year it
+    if @isMonthly
+      @years = [1 to 7].map -> new Year it
+    else
+      @years = [1990 to 2014].map -> new Year it
     @sources = []
     @sourcesAssoc = {}
     @sortableName = switch @name
@@ -16,7 +19,10 @@ class ig.Country
       | otherwise   => @name
 
   addLine: (year, source, amount) ->
-    yearIndex = year - 1990
+    if @isMonthly
+      yearIndex = year - 1
+    else
+      yearIndex = year - 1990
     @years[yearIndex].addLine source, amount
     return if source == "other"
     if not @sourcesAssoc[source]

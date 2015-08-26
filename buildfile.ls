@@ -14,7 +14,7 @@ externalData =
   "uprchlici": "#__dirname/data/output.tsv"
   "uprchlici_2015": "#__dirname/data/azyly_2015.tsv"
 
-preferScripts = <[countryNames.js Country.js postInit.js _loadData.js ../data.js init.js _loadExternal.js]>
+preferScripts = <[CountryPops.js countryNames.js Country.js postInit.js _loadData.js ../data.js init.js _loadExternal.js]>
 deferScripts = <[ geoUtils.js base.js ]>
 develOnlyScripts = <[ _loadData.js _loadExternal.js]>
 gzippable = <[ www/index.deploy.html www/script.deploy.js ]>
