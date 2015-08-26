@@ -58,8 +58,15 @@ class ig.DisplayMonthly
         ..attr \class \item
         ..style \background-color -> color it.countryEnglishName
       ..exit!remove!
-      ..attr \data-tooltip ~> "<b>#{it.country}: </b> <b>#{ig.utils.formatNumber it.amount}</b> uprchlíků,
-      <br>tj. <b>#{ig.utils.formatNumber it.amount / @currentCountry.population}</b> na milion obyvatel"
+      ..attr \data-tooltip ~>
+        number = it.amount / @currentCountry.population
+        decimals =
+          | number < 10 => 2
+          | number < 100 => 1
+          | otherwise => 0
+        ig.utils.formatNumber number, decimals
+        "<b>#{it.country}: </b> <b>#{ig.utils.formatNumber it.amount}</b> uprchlíků,
+        <br>tj. <b>#{ig.utils.formatNumber it.amount / @currentCountry.population, decimals}</b> na milion obyvatel"
     @updateYScale!
     if country.years[*-1].sum
       @drawTopTen country.years[*-1]
