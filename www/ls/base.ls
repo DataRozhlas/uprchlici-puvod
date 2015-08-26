@@ -21,7 +21,7 @@ new Tooltip!watchElements!
 display1 = new ig.Display leftDisplayContainer
   ..display countriesAssoc['Czech Rep.']
 display2 = new ig.Display rightDisplayContainer
-  ..display countriesAssoc['France']
+  ..display countriesAssoc['Germany']
 
 countrySelector = container.append \div
   ..attr \class \country-selector
@@ -34,5 +34,3 @@ countrySelector = container.append \div
     ..on \change ->
       console.log countriesAssoc[@value]
       display2.display countriesAssoc[@value]
-<~ setTimeout _, 1000
-display2.display countriesAssoc['Australia']
