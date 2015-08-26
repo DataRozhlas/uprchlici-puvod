@@ -57,7 +57,8 @@ class ig.Display
         ..attr \class \item
         ..style \background-color -> color it.countryEnglishName
       ..exit!remove!
-      ..attr \data-tooltip ~> "#{it.country}: #{ig.utils.formatNumber it.amount}"
+      ..attr \data-tooltip ~> "<b>#{it.country}: </b> <b>#{ig.utils.formatNumber it.amount}</b> uprchlíků,
+      <br>tj. <b>#{ig.utils.formatNumber it.amount / @currentCountry.population}</b> na milion obyvatel"
     @updateYScale!
     @drawTopTen country.years[*-1]
     @heading.html country.name
