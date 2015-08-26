@@ -12,6 +12,7 @@ externalStyles =
 
 externalData =
   "uprchlici": "#__dirname/data/output.tsv"
+  "uprchlici_2015": "#__dirname/data/azyly_2015.tsv"
 
 preferScripts = <[ postInit.js _loadData.js ../data.js init.js _loadExternal.js]>
 deferScripts = <[ geoUtils.js base.js ]>
